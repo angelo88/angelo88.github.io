@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>http://aqsong.github.io/2018/07/13/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>. </p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 学习 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 开始 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[科学精神——读《星空的琴弦：天文学史话》]]></title>
+      <url>http://aqsong.github.io/2017/10/21/%E7%A7%91%E5%AD%A6%E7%B2%BE%E7%A5%9E%E2%80%94%E2%80%94%E8%AF%BB%E3%80%8A%E6%98%9F%E7%A9%BA%E7%9A%84%E7%90%B4%E5%BC%A6%EF%BC%9A%E5%A4%A9%E6%96%87%E5%AD%A6%E5%8F%B2%E8%AF%9D%E3%80%8B/</url>
+      <content type="html"><![CDATA[<ul>
+<li><a href="https://book.douban.com/subject/27082359/" target="_blank" rel="external">《星空的琴弦：天文学史话》</a></li>
+<li>汪洁(中)</li>
+<li>北京时代华文书局</li>
+<li>微信读书</li>
+<li>★★★★☆</li>
+</ul>
+<a id="more"></a>
+<h3 id="关于本书"><a href="#关于本书" class="headerlink" title="关于本书"></a>关于本书</h3><p>　　这几天断断续续读完了汪洁老师的《星空的琴弦：天文学史话》，自上一次读完其《时间的形状》已经两年多了，读来也并没有过多的惊喜，中规中矩，作为天文学史科普，汪洁老师做到了科普该有的样子，不过也如他本人所说，相比于之前的《时间的形状》，其玩票性质大减，敬畏之心大涨。<br>　　全书记录了天文学史上大大小小的历史事件，通过一个个天文学问题、一个个天文学故事以及一位位天文学人物，对人类探索宇宙的进程做了梳理，读来也可谓“涨姿势”，最后一章以及后记的点评尤为犀利，印象最深的莫过于他对于科学精神的见解，这也是读完此书让我收获最大的地方。</p>
+<h3 id="关于科学精神"><a href="#关于科学精神" class="headerlink" title="关于科学精神"></a>关于科学精神</h3><p>　　回顾人类历史，漫漫长河中，人类对于浩瀚宇宙的探索从未停止，从神话故事到观测验证，从思辨到实证，人类在追求宇宙真理的道路上，不断挖掘着自身潜能，科学精神在这个过程中逐渐诞生，发展到现在，可以说科学已经成为人类追求真理过程中的一个标杆。<br>　　关于什么是科学精神，每个人都有自己的看法，但我想，科学精神的几个特征应当是被大家公认的。</p>
+<ul>
+<li>可证伪性<br>　　不存在被证明是错误的可能性的理论，不属于科学的范畴。</li>
+<li>可重复性<br>　　无法被重复验证的理论，不属于科学的范畴。</li>
+<li>可预测性<br>　　无法在其适用范围内做出预言的理论，不属于科学的范畴。</li>
+<li>自我纠错性<br>　　宣称自己毫无条件绝对正确的理论，不属于科学的范畴。</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> 读书 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 科普 </tag>
+            
+            <tag> 天文，《星空的琴弦：天文学史话》 </tag>
+            
+            <tag> 科学精神 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Python学习笔记之1——字符串常用操作]]></title>
+      <url>http://aqsong.github.io/2017/03/29/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B1%E2%80%94%E2%80%94%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/</url>
+      <content type="html"><![CDATA[<p><strong><em>本文持续更新，updated:2017-3-29。</em></strong></p>
+<h3 id="len"><a href="#len" class="headerlink" title="len( )"></a>len( )</h3><p>&emsp;&emsp;获取字符串包含字符个数，包括空格在内。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'abc '</span></div><div class="line"><span class="keyword">print</span> (len(strr))</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果为’4’。<br><a id="more"></a></p>
+<h3 id="upper"><a href="#upper" class="headerlink" title="upper( )"></a>upper( )</h3><p>&emsp;&emsp;将字符串全部大写。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'abc'</span></div><div class="line"><span class="keyword">print</span> (strr)</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果为’ABC’。</p>
+<h3 id="lower"><a href="#lower" class="headerlink" title="lower( )"></a>lower( )</h3><p>&emsp;&emsp;将字符串全部小写。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'ABC'</span></div><div class="line"><span class="keyword">print</span> (strr)</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果为’abc’。</p>
+<h3 id="rstrip-lstrip-strip"><a href="#rstrip-lstrip-strip" class="headerlink" title="rstrip( ), lstrip( ), strip( )"></a>rstrip( ), lstrip( ), strip( )</h3><p>&emsp;&emsp;分别为删除字符串前端空白、后端空白以及两端空白。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'  ab c  '</span></div><div class="line"><span class="keyword">print</span> (strr.rstrip())</div><div class="line"><span class="keyword">print</span> (strr.lstrip())</div><div class="line"><span class="keyword">print</span> (strr.strip())</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果分别为’ab c    ‘、’    ab c’、’ab c’。</p>
+<h3 id="count"><a href="#count" class="headerlink" title="count( )"></a>count( )</h3><p>&emsp;&emsp;确定特定短语在字符串中出现次数。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'What we eat is what we need.'</span></div><div class="line"><span class="keyword">print</span> (strr.lower().count())</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果为’2’。</p>
+<h3 id="int-float"><a href="#int-float" class="headerlink" title="int( ), float( )"></a>int( ), float( )</h3><p>&emsp;&emsp;将字符串转换为整数、浮点数。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'4'</span></div><div class="line"><span class="keyword">print</span> (int(strr))</div><div class="line"><span class="keyword">print</span> (float(strr))</div></pre></td></tr></table></figure>
+<p>&emsp;&emsp;输出结果为’4’、’4.0’。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 学习 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 学习笔记 </tag>
+            
+            <tag> 字符串 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Python学习笔记之0——关键字内置函数以及编码风格]]></title>
+      <url>http://aqsong.github.io/2017/03/29/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B0%E2%80%94%E2%80%94%E5%85%B3%E9%94%AE%E5%AD%97%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0%E4%BB%A5%E5%8F%8A%E7%BC%96%E7%A0%81%E9%A3%8E%E6%A0%BC/</url>
+      <content type="html"><![CDATA[<p><strong><em>本文持续更新，updated:2017-3-29。</em></strong></p>
+<p>&emsp;&emsp;变量命名需避开以下关键字和内置函数名称，将关键字用作变量名将引发错误，将内置函数名用作变量名会覆盖函数的行为。</p>
+<a id="more"></a>
+<h4 id="Python关键字"><a href="#Python关键字" class="headerlink" title="Python关键字"></a>Python关键字</h4><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>False</td>
+<td>class</td>
+<td>finally</td>
+<td>is</td>
+<td>return</td>
+</tr>
+<tr>
+<td>None</td>
+<td>continue</td>
+<td>for</td>
+<td>lambda</td>
+<td>try</td>
+</tr>
+<tr>
+<td>True</td>
+<td>def</td>
+<td>from</td>
+<td>nonlocal</td>
+<td>while</td>
+</tr>
+<tr>
+<td>and</td>
+<td>del</td>
+<td>global</td>
+<td>not</td>
+<td>with</td>
+</tr>
+<tr>
+<td>as</td>
+<td>elif</td>
+<td>if</td>
+<td>or</td>
+<td>yield</td>
+</tr>
+<tr>
+<td>assert</td>
+<td>else</td>
+<td>import</td>
+<td>pass</td>
+<td></td>
+</tr>
+<tr>
+<td>break</td>
+<td>except</td>
+<td>in</td>
+<td>raise</td>
+</tr>
+</tbody>
+</table>
+<h4 id="Python内置函数"><a href="#Python内置函数" class="headerlink" title="Python内置函数"></a>Python内置函数</h4><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>abs()</td>
+<td>divmod()</td>
+<td>input()</td>
+<td>open()</td>
+<td>staticmethod()</td>
+</tr>
+<tr>
+<td>all()</td>
+<td>enumerate()</td>
+<td>int()</td>
+<td>ord()</td>
+<td>str()</td>
+</tr>
+<tr>
+<td>any()</td>
+<td>eval()</td>
+<td>isinstance()</td>
+<td>pow()</td>
+<td>sum()</td>
+</tr>
+<tr>
+<td>basestring()</td>
+<td>execfile()</td>
+<td>issubclass()</td>
+<td>print()</td>
+<td>super()</td>
+</tr>
+<tr>
+<td>bin()</td>
+<td>file()</td>
+<td>iter()</td>
+<td>property()</td>
+<td>tuple()</td>
+</tr>
+<tr>
+<td>bool()</td>
+<td>filter()</td>
+<td>len()</td>
+<td>range()</td>
+<td>type()</td>
+</tr>
+<tr>
+<td>bytearray()</td>
+<td>float()</td>
+<td>list()</td>
+<td>raw_input()</td>
+<td>unichr()</td>
+</tr>
+<tr>
+<td>callable()</td>
+<td>format()</td>
+<td>locals()</td>
+<td>reduce()</td>
+<td>unicode()</td>
+</tr>
+<tr>
+<td>chr()</td>
+<td>frozenset()</td>
+<td>long()</td>
+<td>reload()</td>
+<td>vars()</td>
+</tr>
+<tr>
+<td>classmethod()</td>
+<td>getattr()</td>
+<td>map()</td>
+<td>repr()</td>
+<td>xrange()</td>
+</tr>
+<tr>
+<td>cmp()</td>
+<td>globals()</td>
+<td>max()</td>
+<td>reversed()</td>
+<td>zip()</td>
+</tr>
+<tr>
+<td>compile()</td>
+<td>hasattr()</td>
+<td>memoryview()</td>
+<td>round()</td>
+<td>_import_()</td>
+</tr>
+<tr>
+<td>complex()</td>
+<td>hash()</td>
+<td>min()</td>
+<td>set()</td>
+<td>apply()</td>
+</tr>
+<tr>
+<td>delattr()</td>
+<td>help()</td>
+<td>next()</td>
+<td>setattr()</td>
+<td>buffer()</td>
+</tr>
+<tr>
+<td>dict()</td>
+<td>hex()</td>
+<td>object()</td>
+<td>slice()</td>
+<td>coerce()</td>
+</tr>
+<tr>
+<td>dir()</td>
+<td>id()</td>
+<td>oct()</td>
+<td>sorted()</td>
+<td>intern()</td>
+</tr>
+</tbody>
+</table>
+<h4 id="其他建议"><a href="#其他建议" class="headerlink" title="其他建议"></a>其他建议</h4><ul>
+<li>变量名用小写字母，以_表示空格</li>
+<li>函数名用小写字母，以_表示空格</li>
+<li>类名采用驼峰命名法，不使用_</li>
+<li>实例名和模块名采用小写字母，单词之间加_</li>
+<li>在类中，使用一个空行来分隔方法</li>
+<li>在模块中，使用两个空行来分隔类</li>
+<li>先导入标准库模块，添加一个空行，再导入自己编写的模块</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> 学习 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Python </tag>
+            
+            <tag> 学习笔记 </tag>
+            
+            <tag> 关键字 </tag>
+            
+            <tag> 内置函数 </tag>
+            
+            <tag> 编码风格 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hexo-Next建站实践]]></title>
+      <url>http://aqsong.github.io/2017/02/23/hexo-next%E5%BB%BA%E7%AB%99%E5%AE%9E%E8%B7%B5/</url>
+      <content type="html"><![CDATA[<p><blockquote class="blockquote-center">世界那么大，我在这里安个家。</blockquote><br><strong><em>本文持续更新，updated:2017.3.29。</em></strong><a id="more"></a></p>
+<h2 id="引子"><a href="#引子" class="headerlink" title="引子"></a>引子</h2><p>&emsp;&emsp;一直以来都希望在网络上找到一个小窝，搭建属于自己的点点滴滴，折腾了N年，多夭折，或者网站倒闭，或者功能繁杂，或者可塑性不强，总是差那么点意思。直到好友<a href="https://wenlongshen.github.io/" target="_blank" rel="external">llArcher</a>向我安利了<code>github</code>，静态网页式的发布维护、轻量级、简单方便，这不正是我要的么，简直就是个天然的博客系统，于是才算安定了下来。<br>&emsp;&emsp;而之所以选择<code>hexo-next</code>的组合则纯粹是偶然，闲逛时看到个站点儿比较喜欢，追查下去，一路知道了“Hexo”，知道了“Next主题”，便也顺手拿了过来，本文就总结一下自己在折腾Hexo+next过程中的实践经历，教程也好，经验也罢，我只当它是个对我自己建站过程的简单小结，如果能帮到你，那也不错。</p>
+<hr>
+<h2 id="关于Hexo"><a href="#关于Hexo" class="headerlink" title="关于Hexo"></a>关于Hexo</h2><p>&emsp;&emsp;Hexo是一个快速、简洁、高效的博客框架，网上关于利用Hexo建站的教程很多，私以为教程再多不如看<a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="external">官方文档</a>，把这篇文档搞懂，分分钟便可以利用Hexo搭建起自己的博客了。</p>
+<hr>
+<h2 id="关于Next"><a href="#关于Next" class="headerlink" title="关于Next"></a>关于Next</h2><p>&emsp;&emsp;Hexo框架下有很多主题可以使用，带来各种各样的风格，Next就是其中之一，关于Next的安装及基本使用技巧，同样的道理，参见<a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">官方文档</a>，顺便安利一下主题作者的博客<a href="http://notes.iissnan.com/2015/something-about-next/" target="_blank" rel="external">iissnan’s note</a>。</p>
+<hr>
+<h2 id="我的建站实践"><a href="#我的建站实践" class="headerlink" title="我的建站实践"></a>我的建站实践</h2><p>&emsp;&emsp;以下内容都是我的实践经历，基本上博客做过的修改&amp;值得关注的点都列在上面了，而非对于配置文件的全面详细解读。</p>
+<h5 id="站点url"><a href="#站点url" class="headerlink" title="站点url"></a>站点url</h5><p>&emsp;&emsp;<code>url</code>：一定修改成自己博客的URL，例如<code>url: http://aqsong.github.io</code>不要使用默认的<code>yoursite.com</code>，避免后期使用各种插件、第三方应用时出现链接问题。(根目录下名为<code>_config.yml</code>的文件)</p>
+<h5 id="新文章文件名"><a href="#新文章文件名" class="headerlink" title="新文章文件名"></a>新文章文件名</h5><p>&emsp;&emsp;<code>new_post_name</code>：每一篇文章对应于一个markdown文件，文件名的样式在这里设置，默认以文章标题即title命名，为了便于管理，可在文件名中增加文件建立日期，例如<code>new_post_name: :year-:month-:day-:title.md</code>。(根目录下名为<code>_config.yml</code>的文件)</p>
+<h5 id="添加搜索"><a href="#添加搜索" class="headerlink" title="添加搜索"></a>添加搜索</h5><p>&emsp;&emsp;<code>search</code>：可以为博客添加站内搜索功能，通过安装插件实现。在站点根目录中执行以下命令：<br><figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm <span class="keyword">install</span> hexo-generator-searchdb <span class="comment">--save</span></div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;之后更改配置文件的search选项为：<br><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.<span class="keyword">xml</span></div><div class="line">  <span class="title">field</span>: post,page</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;添加page是为了让搜索不仅仅支持文章，还支持页面。(根目录下名为<code>_config.yml</code>的文件)　　
+　</p>
+<h5 id="菜单栏"><a href="#菜单栏" class="headerlink" title="菜单栏"></a>菜单栏</h5><p>&emsp;&emsp;<code>menu</code>：该选项用来确定菜单栏上所要展示的项目，当新建一个页面并希望其在菜单栏上展示时，除了在该选项下添加页面地址与图标，同时还要修改<code>languages</code>文件夹下相对应的语言文件，最常用的为<code>en.yml</code>和<code>zh-Hans.yml</code>两个文件，修改前者以确定该菜单项英文名称，修改后者确定其简体中文名称。(next目录下名为<code>_config.yml</code>的文件。)</p>
+<h5 id="code样式"><a href="#code样式" class="headerlink" title="code样式"></a>code样式</h5><h5 id="链接样式post-amp-page"><a href="#链接样式post-amp-page" class="headerlink" title="链接样式post&amp;page"></a>链接样式post&amp;page</h5><h5 id="一些莫名其妙的问题"><a href="#一些莫名其妙的问题" class="headerlink" title="一些莫名其妙的问题"></a>一些莫名其妙的问题</h5><ul>
+<li>python代码无法高亮：站点配置文件中的highlight的auto_detect: true已经设置，代码语言已经设置<code>```python</code>，仍然无法高亮，也许可以试试调整代码格式，比如print()语句，如果print后加1空格即可高亮，不加即无法高亮，也是醉了。</li>
+</ul>
+]]></content>
+      
+        <categories>
+            
+            <category> 学习 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> next </tag>
+            
+            <tag> github </tag>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[看不见的手——读《七堂极简物理课》]]></title>
+      <url>http://aqsong.github.io/2017/02/16/%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E6%89%8B%E2%80%94%E2%80%94%E8%AF%BB%E3%80%8A%E4%B8%83%E5%A0%82%E6%9E%81%E7%AE%80%E7%89%A9%E7%90%86%E8%AF%BE%E3%80%8B/</url>
+      <content type="html"><![CDATA[<ul>
+<li><a href="https://book.douban.com/subject/26772731/" target="_blank" rel="external">《七堂极简物理课》</a></li>
+<li>卡洛·罗韦利（意）</li>
+<li>湖南科学技术出版社 2016-5</li>
+<li>Kindle</li>
+<li>★★★★☆</li>
+</ul>
+<a id="more"></a>
+<h3 id="关于本书"><a href="#关于本书" class="headerlink" title="关于本书"></a>关于本书</h3><p>　　昨晚利用了1个多小时的时间读完了意大利理论物理学家卡洛·罗韦利的《七堂极简物理课》，全书不长，不到3万字，主要是对20世纪物理学的两大发现广义相对论和量子物理进行了简要介绍，对于宇宙和基本粒子进行了扼要说明，最后有一些作者的思考，对于看多了科普著作的我来说，并没有太多的惊喜，不过也确实对得起“极简”这个名字了，内容虽简，却也深入浅出，值得一看。　　<br>　　书中给我印象最深的一段话就是下面这一段，作者用它类比了20世纪物理学两大发现的矛盾关系，读到时我居然也笑出了声。</p>
+<blockquote>
+<p><em>悖论在于两个理论都非常好用。大自然就像一位年长的拉比，有两个人跑去找他解决争端。听了第一个人的话，拉比说：“你说的很有道理，”第二个人坚持为自己辩解，拉比听完对他说：“你说的也有道理。”拉比夫人在另一个房间听到了他们的谈话，大声说道：“但是他们不会都有道理吧？”长老认真思考了一下，点点头说：“你说的也很有道理。”</em></p>
+</blockquote>
+<h3 id="关于看不见的的手"><a href="#关于看不见的的手" class="headerlink" title="关于看不见的的手"></a>关于看不见的的手</h3><p>　　看多了科普读物，自己也有意无意地喜欢做些思考，一直有一个观点，认为有一只“看不见的手”在支配着我们日常的一切，量子物理中那些看似荒谬、随机的过程，我一直将其归为这只手的力量，关于那个经典问题“上帝掷骰子吗？”，我始终认为看似随机的骰子行为，也许是我们无法理解的规律，就像对于宠物狗来说，主人哪天出门上班是永远无法把握的事情，是随机的，是无法用公式表达出来的，对于我们人类来说，现阶段正是处于知道怎么样却不知道为什么的时期，我们可以利用量子物理为人类造福，却始终无法参透其中的奥秘，又或者，我们早已掌握了奥秘，却始终未曾理解它。
+　　</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 读书 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 科普 </tag>
+            
+            <tag> 物理 </tag>
+            
+            <tag> 相对论 </tag>
+            
+            <tag> 量子 </tag>
+            
+            <tag> 《七堂极简物理课》 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title><![CDATA[关于我]]></title>
+      <url>http://aqsong.github.io/about/index.html</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><font size="3">清华理工男，国防事业的奉献者。<br>最大的爱好是白日做梦，并为此深受其害。<br>喜爱读书以及一切球类运动。<br>逻辑思维&gt;&gt;模糊思维，注定成不了艺术家。<br></font></blockquote>
+
+<ul>
+<li><font size="3"><b><i class="fa fa-envelope"></i> :</b>  angelo8804@163.com</font></li>
+<li><font size="3"><b><i class="fa fa-qq"></i> :</b>  657108020</font></li>
+<li><font size="3"><b><a href="/mybookshelf">我的书架 <i class="fa fa-book"></i></a></b></font>
+
+</li>
+</ul>
+<hr>
+<!--
+>最近访客
+><div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>-->]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[分类]]></title>
+      <url>http://aqsong.github.io/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://aqsong.github.io/mylove/APlayer.min.css</url>
+      <content type="html"><![CDATA[@font-face{font-family:aplayer-fontello;src:url(font/aplayer-fontello.eot?72550380);src:url(font/aplayer-fontello.eot?72550380#iefix) format("embedded-opentype"),url(font/aplayer-fontello.woff?72550380) format("woff"),url(font/aplayer-fontello.ttf?72550380) format("truetype"),url(font/aplayer-fontello.svg?72550380#fontello) format("svg");font-weight:400;font-style:normal}.aplayer-narrow{width:66px}.aplayer-narrow .aplayer-info{display:none}.aplayer-withlrc.aplayer-narrow{width:106px}.aplayer-withlrc.aplayer .aplayer-pic{height:106px;width:106px}.aplayer-withlrc.aplayer .aplayer-info{margin-left:106px;height:106px}.aplayer-withlrc.aplayer .aplayer-lrc{display:block}.aplayer{font-family:Arial,Helvetica,sans-serif;margin:5px;-webkit-box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);-webkit-border-radius:2px;border-radius:2px;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.aplayer [class*=" aplayer-icon-"]:before,.aplayer [class^=aplayer-icon-]:before{font-family:aplayer-fontello;font-style:normal;font-weight:400;display:inline-block;text-decoration:inherit;width:1em;text-align:center;font-variant:normal;text-transform:none;line-height:1em}.aplayer .aplayer-lrc-content,.aplayer .aplayer-pic .aplayer-hide{display:none}.aplayer .aplayer-icon-weibo:before{content:'\e805'}.aplayer .aplayer-icon-play:before{content:'\e806'}.aplayer .aplayer-icon-pause:before{content:'\e807'}.aplayer .aplayer-icon-to-start:before{content:'\e808'}.aplayer .aplayer-icon-to-end:before{content:'\e809'}.aplayer .aplayer-icon-list:before{content:'\e80a'}.aplayer .aplayer-icon-menu:before{content:'\e80b'}.aplayer .aplayer-icon-volume-off:before{content:'\e800'}.aplayer .aplayer-icon-volume-down:before{content:'\e801'}.aplayer .aplayer-icon-volume-up:before{content:'\e802'}.aplayer span{cursor:default!important}.aplayer .aplayer-pic{position:relative;float:left;height:66px;width:66px}.aplayer .aplayer-pic img{height:100%;width:100%}.aplayer .aplayer-pic .aplayer-button{position:absolute;color:#fff;-webkit-border-radius:50%;border-radius:50%;opacity:.8;cursor:pointer;text-shadow:0 1px 1px rgba(0,0,0,.2);-webkit-box-shadow:0 1px 1px rgba(0,0,0,.2);box-shadow:0 1px 1px rgba(0,0,0,.2);background:rgba(0,0,0,.2)}.aplayer .aplayer-pic .aplayer-button:hover{opacity:1}.aplayer .aplayer-pic .aplayer-play{width:26px;height:26px;border:2px solid #fff;top:50%;left:50%;margin:-15px 0 0 -15px}.aplayer .aplayer-pic .aplayer-play .aplayer-icon-play{position:absolute;top:2px;left:4px;font-size:20px;line-height:23px}.aplayer .aplayer-pic .aplayer-pause{width:16px;height:16px;border:2px solid #fff;bottom:4px;right:4px}.aplayer .aplayer-pic .aplayer-pause .aplayer-icon-pause{position:absolute;top:1px;left:2px;font-size:12px;line-height:14px}.aplayer .aplayer-info{margin-left:66px;padding:14px 7px 0 10px;height:66px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.aplayer .aplayer-info .aplayer-music{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;margin-bottom:17px}.aplayer .aplayer-info .aplayer-music .aplayer-title{font-size:14px}.aplayer .aplayer-info .aplayer-music .aplayer-author{font-size:12px;color:#666}.aplayer .aplayer-info .aplayer-controller{position:relative}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap{margin:0 120px 0 5px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar{position:relative;height:2px;width:100%;background:#cdcdcd;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-loaded{position:absolute;left:0;top:0;bottom:0;background:#aaa;height:2px;-webkit-transition:all .5s ease;transition:all .5s ease}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played{position:absolute;left:0;top:0;bottom:0;background:#b7daff;height:2px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb{position:absolute;top:0;right:5px;margin-top:-4px;margin-right:-10px;height:8px;width:8px;border:1px solid #b7daff;-webkit-border-radius:50%;border-radius:50%;background:#fff;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb:hover{background:#b7daff}.aplayer .aplayer-info .aplayer-controller .aplayer-time{position:absolute;right:0;bottom:-5px;height:17px;color:#999;font-size:11px}.aplayer .aplayer-info .aplayer-controller .aplayer-time i{color:#666;font-size:15px}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap{display:inline-block;margin-left:7px;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap:hover .aplayer-volume-bar-wrap{display:block}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap{display:none;position:absolute;bottom:17px;right:-5px;width:25px;height:40px;z-index:99}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar{position:absolute;bottom:0;right:10px;width:5px;height:35px;background:#aaa}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar .aplayer-volume{position:absolute;bottom:0;right:0;width:5px;background:#b7daff}.aplayer .aplayer-lrc{display:none;position:relative;height:40px;background:#fff;text-align:center;overflow:hidden;margin:-10px 0 10px}.aplayer .aplayer-lrc:after,.aplayer .aplayer-lrc:before{position:absolute;z-index:1;display:block;overflow:hidden;content:' ';width:100%}.aplayer .aplayer-lrc:before{top:0;height:10%;background:-webkit-linear-gradient(top,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left top,left bottom,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to bottom,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=0 )}.aplayer .aplayer-lrc:after{bottom:0;height:33%;background:-webkit-linear-gradient(bottom,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left bottom,left top,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to top,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0 )}.aplayer .aplayer-lrc p{font-size:12px;color:#666;line-height:20px;padding:0;margin:0;-webkit-transition:all .5s ease-out;transition:all .5s ease-out;opacity:.4}.aplayer .aplayer-lrc p.aplayer-lrc-current{opacity:1}.aplayer .aplayer-lrc .aplayer-lrc-contents{width:100%;-webkit-transition:all .5s ease-out;transition:all .5s ease-out}]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[爱的纪念]]></title>
+      <url>http://aqsong.github.io/mylove/index.html</url>
+      <content type="html"><![CDATA[<!--计时器 开始-->
+<blockquote class="blockquote-center"><p><div id="CountMsg" class="HotDate"></div></p>
+<p><div id="countdown_prompt"> <font size="3">AQSONG</font> <font size="2">与</font> <font size="3">任小胆儿</font> <font size="2">已经牵手走过了：</font></div></p>
+<p><div id="countdown"><span id="t_d">00天</span><span id="t_h">00时</span> <span id="t_m">00分</span><span id="t_s">00秒</span></div></p>
+<p><div id="countdown"><span id="loveYear"><font size="2">今天是第 </font><span id="t_month">00</span><font size="2"> 个月，</font><font size="2">今天是第 </font><span id="t_year">00</span><font size="2"> 年。</font></span><br></div></p>
+<script type="text/javascript" src="/js/src/timer.js"></script></blockquote>
+<!--计时器 结束-->
+<!--音乐播放器 开始-->
+
+<html>
+<head>
+<link rel="stylesheet" href="APlayer.min.css">
+<style>
+.demo{width:200px; margin:10px auto 10px auto}
+.demo p{padding:0px 0}
+</style>
+</head>
+<div class="demo">
+<div id="player1" class="aplayer" style="float:left;"></div>
+<div id="player2" class="aplayer" style="float:right;"></div>
+<script type="text/javascript" src="/js/src/musicplayer.js"></script>
+</div>
+</html>
+
+<!--音乐播放器 结束-->
+<!--左键点击出心形 开始-->
+<script type="text/JavaScript" src="/js/src/love.js"></script>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[标签]]></title>
+      <url>http://aqsong.github.io/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[我的书架——简明分类索引]]></title>
+      <url>http://aqsong.github.io/bookcatalog/index.html</url>
+      <content type="html"><![CDATA[<p align="right" style="margin-right:10px; padding:0px; margin-bottom:-20px; margin-top:0px"><a href="/mybookshelf"><i class="fa fa-hand-o-left"></i><b> 回到我的书架</b></a></p>
+
+<hr>
+
+<p align="left" style="margin-left:0px; padding:0px; margin-bottom:20px; margin-top:-20px">
+<i class="fa fa-check-square-o fa-fw"></i>已读　<i class="fa fa-square-o fa-fw"></i>未读　<font color="#6A6AFF"><i class="fa fa-refresh fa-spin fa-fw"></i></font>正在读　<i class="fa fa-amazon"></i>电子书　<i class="fa fa-institution"></i>借读　<i class="fa fa-book"></i>外文</p>
+<table style="border:0; margin:0px;">
+<thead>
+    <tr>
+      <th style="text-align:left; border:0; padding:0 0 0 0"><font size="3"><i>致敬情怀</i> <i class="fa fa-paper-plane fa-fw"></i></font></th>
+      <th style="text-align:right; border:0; padding:0 10px 0 0"><font size="3">A</font></th>
+    </tr>
+</thead>   
+</table>
+<table style="border:0; margin:0px; padding:0px;">
+<tr>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top" width="10%"></td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-check-square-o fa-fw"></i>A-01《哈利·波特与魔法石》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>A-02《哈利·波特与密室》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>A-03《哈利·波特与阿兹卡班的囚徒》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>A-04《哈利·波特与火焰杯》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>A-05《哈利·波特与凤凰社》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>A-06《哈利·波特与混血王子》<br> 
+  <i class="fa fa-check-square-o fa-fw"></i>A-07《哈利·波特与死亡圣器》<br>
+  <font color="#6A6AFF"><i class="fa fa-refresh fa-spin fa-fw"></i></font>A-08《哈利·波特与被诅咒的孩子》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-20《精灵宝钻》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-21《努门诺尔与中洲之未完的传说》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-19《七王国的骑士：冰与火之歌外传》<br> 
+ </td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-square-o fa-fw"></i>A-09《魔戒：护戒同盟》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-10《魔戒：双塔奇兵》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-11《魔戒：王者归来》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-12《The Lord of the Rings》<i class="fa fa-book"></i><br>
+  <i class="fa fa-square-o fa-fw"></i>A-13《霍比特人》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-14《冰与火之歌：权力的游戏》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-15《冰与火之歌：列王的纷争》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-16《冰与火之歌：冰雨的风暴》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-17《冰与火之歌：群鸦的盛宴》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-18《冰与火之歌：魔龙的狂舞》<br>
+  <i class="fa fa-square-o fa-fw"></i>A-22《Harry Potter》<i class="fa fa-book"></i><br>
+ </td>
+</tr>
+</table>
+
+<table style="border:0; margin:0px;">
+<thead>
+    <tr>
+      <th style="text-align:left; border:0; padding:0 0 0 0"><font size="3"><i>烧脑制作</i> <i class="fa fa-cube fa-fw"></i></font></th>
+      <th style="text-align:right; border:0; padding:0 10px 0 0"><font size="3">G</font></th>
+    </tr>
+</thead>   
+</table>
+<table style="border:0; margin:0px; padding:0px;">
+<tr>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top" width="10%"></td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-square-o fa-fw"></i>G-01《S.忒修斯之船》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>G-03《三体》<br>
+  <i class="fa fa-square-o fa-fw"></i>G-05《死神永生》<br>
+  <i class="fa fa-square-o fa-fw"></i>G-06《嫌疑人X的献身》<i class="fa fa-amazon"></i><br>
+ </td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-square-o fa-fw"></i>G-02《福尔摩斯探案全集》<br>
+  <i class="fa fa-square-o fa-fw"></i>G-04《黑暗森林》<br>
+  <i class="fa fa-square-o fa-fw"></i>G-07《解忧杂货店》<i class="fa fa-amazon"></i><br>
+  <i class="fa fa-square-o fa-fw"></i>G-08《白夜行》<i class="fa fa-amazon"></i><br>
+ </td>
+</tr>
+</table>
+
+<table style="border:0; margin:0px;">
+<thead>
+    <tr>
+      <th style="text-align:left; border:0; padding:0 0 0 0"><font size="3"><i>终极答案</i> <i class="fa fa-globe fa-fw"></i></font></th>
+      <th style="text-align:right; border:0; padding:0 10px 0 0"><font size="3">I</font></th>
+    </tr>
+</thead>   
+</table>
+<table style="border:0; margin:0px; padding:0px;">
+<tr>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top" width="10%"></td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-check-square-o fa-fw"></i>I-01《果壳中的宇宙》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-02《上帝与新物理学》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-03《从一到无穷大》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-04《物理世界奇遇记》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-05《奇妙的物理学》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-06《啊哈，灵机一动》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-07《啊哈，原来如此》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-08《DK宇宙大百科》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-09《DK万物运转的秘密》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-10《素数之恋：黎曼和数学中最大的未解之谜》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-11《隐藏的现实：平行宇宙是什么》<br>
+ </td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-check-square-o fa-fw"></i>I-12<a href="/2017/02/16/%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E6%89%8B%E2%80%94%E2%80%94%E8%AF%BB%E3%80%8A%E4%B8%83%E5%A0%82%E6%9E%81%E7%AE%80%E7%89%A9%E7%90%86%E8%AF%BE%E3%80%8B/">《七堂极简物理课》</a><i class="fa fa-amazon"></i><br>
+  <i class="fa fa-check-square-o fa-fw"></i>I-13《上帝掷骰子吗？量子物理史话》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-14《宇宙的琴弦》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>I-15《时间的形状》<i class="fa fa-institution"></i><br>
+  <i class="fa fa-square-o fa-fw"></i>I-16《无言的宇宙》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-17《数学之美》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-18《宇宙的结构：空间、时间以及真实性的意义》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-19《超越时空：通过平行宇宙、时间卷曲和第十维度的科学之旅》<br>
+  <i class="fa fa-square-o fa-fw"></i>I-20《时间简史》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>I-21<a href="/2017/10/21/科学精神——读《星空的琴弦：天文学史话》/">《星空的琴弦：天文学史话》</a><i class="fa fa-amazon"></i><br>
+ </td>
+</tr>
+</table>
+
+<table style="border:0; margin:0px;">
+<thead>
+    <tr>
+      <th style="text-align:left; border:0; padding:0 0 0 0"><font size="3"><i>时间痕迹</i> <i class="fa fa-hourglass-2 fa-fw"></i></font></th>
+      <th style="text-align:right; border:0; padding:0 10px 0 0"><font size="3">N</font></th>
+    </tr>
+</thead>   
+</table>
+<table style="border:0; margin:0px; padding:0px;">
+<tr>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top" width="10%"></td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-square-o fa-fw"></i>N-01《极简科学史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-02《科学之美：从大爆炸到数字时代》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-03《全球通史：从史前史到21世纪》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-04《极简人类史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-05《哈佛极简中国史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-06《万物简史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-07《图说天下·话说中国历史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-08《信息简史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-09《图解人类的故事》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-10《1453：君士坦丁堡之战》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-20《战争就是这么回事儿》<i class="fa fa-amazon"></i><br>
+ </td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-square-o fa-fw"></i>N-13《科学的旅程》<br>
+  <font color="#6A6AFF"><i class="fa fa-refresh fa-spin fa-fw"></i></font>N-14《人类简史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-15《未来简史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-16《极简宇宙史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-17《重说中国近代史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-18《明朝那些事儿》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-19《极简海洋文明史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-11《海洋帝国：地中海大决战》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-12《财富之城：威尼斯海洋霸权》<br>
+ </td>
+</tr>
+</table>
+
+<table style="border:0; margin:0px;">
+<thead>
+    <tr>
+      <th style="text-align:left; border:0; padding:0 0 0 0"><font size="3"><i>午后阳光</i> <i class="fa fa-coffee fa-fw"></i></font></th>
+      <th style="text-align:right; border:0; padding:0 10px 0 0"><font size="3">O</font></th>
+    </tr>
+</thead>   
+</table>
+<table style="border:0; margin:0px; padding:0px;">
+<tr>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top" width="10%"></td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-square-o fa-fw"></i>O-01《小王子》<br>
+  <i class="fa fa-square-o fa-fw"></i>O-02《从你的全世界路过》<br>
+  <i class="fa fa-square-o fa-fw"></i>O-03《追风筝的人》<br>
+ </td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-square-o fa-fw"></i>O-04《偷影子的人》<br>
+  <i class="fa fa-square-o fa-fw"></i>O-05《平凡的世界》<br>
+  <i class="fa fa-square-o fa-fw"></i>O-06《摆渡人》<br>
+ </td>
+</tr>
+</table>
+
+<table style="border:0; margin:0px;">
+<thead>
+    <tr>
+      <th style="text-align:left; border:0; padding:0 0 0 0"><font size="3"><i>夏日风暴</i> <i class="fa fa-cloud fa-fw"></i></font></th>
+      <th style="text-align:right; border:0; padding:0 10px 0 0"><font size="3">Q</font></th>
+    </tr>
+</thead>   
+</table>
+<table style="border:0; margin:0px; padding:0px;">
+<tr>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top" width="10%"></td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-square-o fa-fw"></i>Q-01《纸牌屋》<br>
+  <i class="fa fa-square-o fa-fw"></i>Q-02《从0到1开启商业与未来的秘密》<br>
+  <i class="fa fa-square-o fa-fw"></i>Q-03《逃离不平等》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>Q-07《艰难一日》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>Q-09《天才在左疯子在右》<i class="fa fa-amazon"></i><br>
+ </td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-check-square-o fa-fw"></i>Q-04《大数据时代》<br>
+  <i class="fa fa-square-o fa-fw"></i>Q-05《我的钱：互联网金融，如何理财？》<br>
+  <i class="fa fa-square-o fa-fw"></i>Q-06《自由选择》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>Q-08《大数据》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>Q-10《史蒂夫·乔布斯传》<br>
+ </td>
+</tr>
+</table>
+
+<table style="border:0; margin:0px;">
+<thead>
+    <tr>
+      <th style="text-align:left; border:0; padding:0 0 0 0"><font size="3"><i>知识海洋</i> <i class="fa fa-mortar-board fa-fw"></i></font></th>
+      <th style="text-align:right; border:0; padding:0 10px 0 0"><font size="3">S</font></th>
+    </tr>
+</thead>   
+</table>
+<table style="border:0; margin:0px; padding:0px;">
+<tr>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top" width="10%"></td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-check-square-o fa-fw"></i>S-03《飞行中的科学》<br>
+  <font color="#6A6AFF"><i class="fa fa-refresh fa-spin fa-fw"></i></font>S-01《经济学原理：微观经济学分册》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-02《经济学原理：宏观经济学分册》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-04《牛奶可乐经济学》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-05《魔鬼经济学》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-06《物种起源（英文全本）》<i class="fa fa-book"></i><br>
+  <i class="fa fa-square-o fa-fw"></i>S-07《终极算法：机器学习和人工智能如何重塑世界》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-16《Foundations of Financial Markets and Institutions》<i class="fa fa-book"></i><br>
+  <i class="fa fa-square-o fa-fw"></i>S-19《宇宙的答案云知道》<br>
+ </td>
+ <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
+  <i class="fa fa-square-o fa-fw"></i>S-09《写给大家看的设计书》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-10《资本论》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-11《国富论》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-12《西方哲学简史》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-13《图解房龙地理》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>S-14《那些古怪又让人忧心的问题what if》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-08《社会心理学》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-15《精通IOS开发（第7版）》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-17《软件项目管理》<br>
+  <i class="fa fa-square-o fa-fw"></i>S-18《PHP和MySQL Web开发（原书第4版）》<br>
+ </td>
+</tr>
+</table>
+
+<hr>
+<p align="right" style="margin-right:10px; padding:0px; margin-bottom:0px; margin-top:-20px"><a href="/mybookshelf"><i class="fa fa-hand-o-left"></i><b> 回到我的书架</b></a></p><br><p align="left" style="margin-left:10px; padding:0px; margin-bottom:0px; margin-top:-80px"><br><i class="fa fa-check-square-o fa-fw"></i>已读　<i class="fa fa-square-o fa-fw"></i>未读　<font color="#6A6AFF"><i class="fa fa-refresh fa-spin fa-fw"></i></font>正在读　<i class="fa fa-book"></i>电子书　<i class="fa fa-institution"></i>借读　<i class="fa fa-book"></i>外文</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[我的书架]]></title>
+      <url>http://aqsong.github.io/mybookshelf/index.html</url>
+      <content type="html"><![CDATA[
+<p align="right" style="margin-right:10px; padding:0px; margin-bottom:0px; margin-top:0px"><a href="/bookcatalog"><b>简明分类索引 </b><i class="fa fa-hand-o-right"></i></a></p>
+<table style="margin:0px; padding:0px;">
+<thead>
+    <tr>
+      <th style="text-align:center" width="10%">编号</th>
+      <th style="text-align:center" width="33%">书名</th>
+      <th style="text-align:center">作者</th>
+      <th style="text-align:center">出版信息</th>
+      <th style="text-align:center" width="15%">推荐指数</th>
+    </tr>
+</thead>   
+</table>
+<table id="idData" style="margin:0px; padding:0px;">   
+  <tr><td width="10%">A-01</td><td width="33%">《哈利·波特与魔法石》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-02</td><td width="33%">《哈利·波特与密室》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-03</td><td width="33%">《哈利·波特与阿兹卡班的囚徒》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-04</td><td width="33%">《哈利·波特与火焰杯》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-05</td><td width="33%">《哈利·波特与凤凰社》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2003-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-06</td><td width="33%">《哈利·波特与混血王子》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2005-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-07</td><td width="33%">《哈利·波特与死亡圣器》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2007-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-08</td><td width="33%">《哈利·波特与被诅咒的孩子》</td><td>J.K. 罗琳🇬🇧<br>约翰·蒂法尼🇬🇧<br>杰克·索恩🇬🇧</td><td>人民文学出版社<br>2016-9</td><td><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-09</td><td width="33%">《魔戒：护戒同盟》</td><td>J.R.R.托尔金🇬🇧</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-10</td><td width="33%">《魔戒：双塔奇兵》</td><td>J.R.R.托尔金🇬🇧</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-11</td><td width="33%">《魔戒：王者归来》</td><td>J.R.R.托尔金🇬🇧</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-12</td><td width="33%">《The Lord of the Rings》<i class="fa fa-book"></i></td><td>J.R.R.Tolkien🇬🇧</td><td>HarperCollins UK<br>2007-4</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-13</td><td width="33%">《霍比特人》</td><td>J.R.R.托尔金🇬🇧</td><td>上海人民出版社<br>2013-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-14</td><td width="33%">《冰与火之歌：权力的游戏》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-15</td><td width="33%">《冰与火之歌：列王的纷争》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-16</td><td width="33%">《冰与火之歌：冰雨的风暴》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-17</td><td width="33%">《冰与火之歌：群鸦的盛宴》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-18</td><td width="33%">《冰与火之歌：魔龙的狂舞》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-19</td><td width="33%">《七王国的骑士：冰与火之歌外传》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版集团<br>重庆出版社<br>2014-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-20</td><td width="33%">《精灵宝钻》</td><td>克里斯托弗·托尔金🇬🇧</td><td>上海人民出版社<br>2015-2</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-21</td><td width="33%">《努门诺尔与中洲之未完的传说》</td><td>克里斯托弗·托尔金🇬🇧</td><td>上海人民出版社<br>2016-8</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-22</td><td width="33%">《Harry Potter》<i class="fa fa-book"></i></td><td>J.K. Rowling🇬🇧</td><td>scholastic<br>2007-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">G-01</td><td width="33%">《S.忒修斯之船》</td><td>J.J.艾布拉姆斯🇺🇸<br>道格·道斯特🇺🇸</td><td>中信出版社<br>2016-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-02</td><td width="33%">《福尔摩斯探案全集》</td><td>亚瑟·柯南·道尔🇬🇧</td><td>中华书局<br>2012-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-03</td><td width="33%">《三体》</td><td>刘慈欣🇨🇳</td><td>重庆出版社<br>2010-11</td><td width="15%">★★★★☆</td></tr>
+  <tr><td width="10%">G-04</td><td width="33%">《黑暗森林》</td><td>刘慈欣🇨🇳</td><td>重庆出版社<br>2010-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-05</td><td width="33%">《死神永生》</td><td>刘慈欣🇨🇳</td><td>重庆出版社<br>2010-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-06</td><td width="33%">《嫌疑人X的献身》<i class="fa fa-amazon"></i></td><td>东野圭吾🇯🇵</td><td>南海出版公司<br>2014-06</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-07</td><td width="33%">《解忧杂货店》<i class="fa fa-amazon"></i></td><td>东野圭吾🇯🇵</td><td>南海出版公司<br>2014-05</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-08</td><td width="33%">《白夜行》<i class="fa fa-amazon"></i></td><td>东野圭吾🇯🇵</td><td>南海出版公司<br>2013-01</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-01</td><td width="33%">《果壳中的宇宙》</td><td>史蒂芬·霍金🇬🇧</td><td>湖南科学技术出版社<br>2003-1</td><td width="15%">★★★★☆</td></tr>
+  <tr><td width="10%">I-02</td><td width="33%">《上帝与新物理学》</td><td>戴维斯🇬🇧</td><td>湖南科学技术出版社<br>2011-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-03</td><td width="33%">《从一到无穷大》</td><td>乔治·伽莫夫🇺🇸</td><td>科学出版社<br>2002-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-04</td><td width="33%">《物理世界奇遇记》</td><td>乔治·伽莫夫🇺🇸<br>罗素·斯坦纳德🇺🇸</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-05</td><td width="33%">《奇妙的物理学》</td><td>A.瓦尔拉莫夫🇷🇺<br>L.阿斯拉马卓夫🇷🇺</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-06</td><td width="33%">《啊哈，灵机一动》</td><td>马丁·伽德纳🇺🇸</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-07</td><td width="33%">《啊哈，原来如此》</td><td>马丁·伽德纳🇺🇸</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-08</td><td width="33%">《DK宇宙大百科》</td><td>马丁·里斯🇬🇧</td><td>电子工业出版社<br>2014-12</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-09</td><td width="33%">《DK万物运转的秘密》</td><td>大卫·麦考利🇬🇧<br>尼尔·阿德利</td><td>电子工业出版社<br>2014-5</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-10</td><td width="33%">《素数之恋：黎曼和数学中最大的未解之谜》</td><td>约翰·德比希尔🇺🇸</td><td>上海世纪出版集团<br>2014-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-11</td><td width="33%">《隐藏的现实：平行宇宙是什么》</td><td>B.格林🇺🇸</td><td>人民邮电出版社<br>2013-8</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-12</td><td width="33%"><a href="/2017/02/16/%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E6%89%8B%E2%80%94%E2%80%94%E8%AF%BB%E3%80%8A%E4%B8%83%E5%A0%82%E6%9E%81%E7%AE%80%E7%89%A9%E7%90%86%E8%AF%BE%E3%80%8B/">《七堂极简物理课》</a><i class="fa fa-amazon"></i></td><td>卡洛·罗韦利🇮🇹</td><td>湖南科学技术出版社<br>2016-5</td><td width="15%">★★★★☆</td></tr>
+  <tr><td width="10%">I-13</td><td width="33%">《上帝掷骰子吗？量子物理史话》</td><td>曹天元🇨🇳</td><td>北京联合出版公司<br>2013-9</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">I-14</td><td width="33%">《宇宙的琴弦》</td><td>格林🇺🇸</td><td>湖南科学技术出版社<br>2007-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-15</td><td width="33%">《时间的形状》<i class="fa fa-institution"></i></td><td>汪洁🇨🇳</td><td>新星出版社<br>2012-1</td><td width="15%">★★★☆☆</td></tr>
+  <tr><td width="10%">I-16</td><td width="33%">《无言的宇宙》</td><td>达纳·麦肯齐🇺🇸</td><td>北京联合出版公司<br>2015-5</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-17</td><td width="33%">《数学之美》</td><td>吴军🇨🇳</td><td>人民邮电出版社<br>2014-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-18</td><td width="33%">《宇宙的结构：空间、时间以及真实性的意义》</td><td>布赖恩·格林🇺🇸</td><td>湖南科学技术出版社<br>2012-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-19</td><td width="33%">《超越时空：通过平行宇宙、时间卷曲和第十维度的科学之旅》</td><td>加来道雄🇺🇸</td><td>上海科技教育出版社<br>2015-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-20</td><td width="33%">《时间简史》</td><td>史蒂芬·霍金🇬🇧</td><td>湖南科学技术出版社<br>2012-1</td><td width="15%"></td></tr>
+ <tr><td width="10%">I-21</td><td width="33%">《星空的琴弦：天文学史话》</td><td>汪洁🇨🇳</td><td>北京时代华文书局<br>2017-8</td><td width="15%">★★★★☆</td></tr>  
+
+<tr><td width="10%">N-01</td><td width="33%">《极简科学史》</td><td>苏珊·怀斯·鲍尔🇺🇸</td><td>中信出版集团<br>2016-11</td><td width="15%"></td></tr>
+
+  <tr><td width="10%">N-02</td><td width="33%">《科学之美：从大爆炸到数字时代》</td><td>戴维·欧瑞尔🇨🇦</td><td>电子工业出版社<br>2015-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-03</td><td width="33%">《全球通史：从史前史到21世纪》</td><td>斯塔夫里阿诺斯🇺🇸</td><td>北京大学出版社<br>2006-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-04</td><td width="33%">《极简人类史》</td><td>大卫·克里斯蒂安🇺🇸</td><td>中信出版集团<br>2016-7</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-05</td><td width="33%">《哈弗极简中国史》</td><td>阿尔伯特·克雷格🇺🇸</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-06</td><td width="33%">《万物简史》</td><td>布莱森🇺🇸</td><td>接力出版社<br>2005-2</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-06</td><td width="33%">《图说天下·话说中国历史》</td><td>龚书铎🇨🇳<br>刘德麟🇨🇳</td><td>北京联合出版公司<br>2012-7</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-08</td><td width="33%">《信息简史》</td><td>詹姆斯·格雷克🇺🇸</td><td>人民邮电出版社<br>2013-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-19</td><td width="33%">《图解人类的故事》</td><td>威廉·房龙🇺🇸</td><td>中国华侨出版社<br>2013-8</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-10</td><td width="33%">《1453：君士坦丁堡之战》</td><td>罗杰·克劳利🇬🇧</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-11</td><td width="33%">《海洋帝国：地中海大决战》</td><td>罗杰·克劳利🇬🇧</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-12</td><td width="33%">《财富之城：威尼斯海洋霸权》</td><td>罗杰·克劳利🇬🇧</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-13</td><td width="33%">《科学的旅程》</td><td>雷·斯潘根贝格🇺🇸<br>戴安娜·莫泽🇺🇸</td><td>北京大学出版社<br>2014-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-14</td><td width="33%">《人类简史》</td><td>尤瓦尔·赫拉利🇮🇱</td><td>中信出版集团<br>2014-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-15</td><td width="33%">《未来简史》</td><td>尤瓦尔·赫拉利🇮🇱</td><td>中信出版集团<br>2014-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-16</td><td width="33%">《极简宇宙史》</td><td>克里斯托弗·加尔法德🇫🇷</td><td>上海三联书店<br>2016-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-17</td><td width="33%">《重说中国近代史》</td><td>张鸣🇨🇳</td><td>中国致公出版社<br>2012-2</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-18</td><td width="33%">《明朝那些事儿》</td><td>当年明月🇨🇳</td><td>京华出版社<br>2011-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-19</td><td width="33%">《极简海洋文明史》</td><td>菲利普·德·索萨🇬🇧</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-20</td><td width="33%">《战争就是这么回事儿》<i class="fa fa-book"></i>></td><td>袁腾飞🇨🇳</td><td>湖南人民出版社<br>2013-06</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-01</td><td width="33%">《小王子》</td><td>安托万·德·圣埃克苏佩里🇫🇷</td><td>天津人民出版社<br>2013-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-02</td><td width="33%">《从你的全世界路过》</td><td>张嘉佳🇨🇳</td><td>湖南文艺出版社<br>2013-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-03</td><td width="33%">《追风筝的人》</td><td>卡勒德·胡塞尼🇺🇸</td><td>上海人民出版社<br>2006-5</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-04</td><td width="33%">《偷影子的人》</td><td>马克·李维🇫🇷</td><td>湖南文艺出版社<br>2012-7</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-05</td><td width="33%">《平凡的世界》</td><td>路遥🇨🇳</td><td>北京十月文艺出版社<br>2012-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-06</td><td width="33%">《摆渡人》</td><td>克莱儿·麦克福尔🇬🇧</td><td>百花洲文艺出版社<br>2015-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-01</td><td width="33%">《纸牌屋》</td><td>迈克尔·道布斯🇬🇧</td><td>百花洲文艺出版社<br>2015-7</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-02</td><td width="33%">《从0到1开启商业与未来的秘密》</td><td>彼得·蒂尔🇺🇸<br>布莱克·马斯特斯🇺🇸</td><td>中信出版社<br>2015-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-03></td><td width="33%">《逃离不平等》</td><td>安格斯·迪顿🇺🇸</td><td>中信出版社<br>2014-8</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-04</td><td width="33%">《大数据时代》</td><td>维克托·迈尔-舍恩伯格🇬🇧<br>肯尼斯·库克耶🇬🇧</td><td>浙江人民出版社<br>2013-1</td><td width="15%">★★★☆☆</td></tr>
+  <tr><td width="10%">Q-05</td><td width="33%">《我的钱：互联网金融，如何理财？》</td><td>羿飞🇨🇳</td><td>江苏凤凰文艺出版社<br>2015-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-06</td><td width="33%">《自由选择》</td><td>米尔顿弗里德曼🇺🇸<br>罗丝·D.弗里德曼🇺🇸</td><td>机械工业出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-07</td><td width="33%">《艰难一日》</td><td>麦克·欧文🇺🇸<br>凯文·马伦🇺🇸</td><td>国防大学出版社<br>2012-9</td><td width="15%">★★★☆☆</td></tr>
+  <tr><td width="10%">Q-08</td><td width="33%">《大数据》</td><td>涂子沛🇨🇳</td><td>广西师范大学出版社<br>2013-4</td><td width="15%">★★★☆☆</td></tr>
+  <tr><td width="10%">Q-09</td><td width="33%">《天才在左疯子在右》<i class="fa fa-amazon"></i></td><td>高铭🇨🇳</td><td>北京联合出版公司<br>2016-1</td><td width="15%">★★☆☆☆</td></tr>
+  <tr><td width="10%">Q-10</td><td width="33%">《史蒂夫·乔布斯传》</td><td>沃尔特·艾萨克森🇺🇸</td><td>中信出版社<br>2011-10</td><td width="15%">★★★★☆</td></tr>
+  <tr><td width="10%">S-01</td><td width="33%">《经济学原理：微观经济学分册》</td><td>曼昆🇺🇸</td><td>北京大学出版社<br>2015-5</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-02</td><td width="33%">《经济学原理：宏观经济学分册》</td><td>曼昆🇺🇸</td><td>北京大学出版社<br>2015-5</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-03</td><td width="33%">《飞行中的科学》</td><td>布莱恩·克雷格🇬🇧</td><td>浙江大学出版社<br>2014-1</td><td width="15%">★☆☆☆☆</td></tr>
+  <tr><td width="10%">S-04</td><td width="33%">《牛奶可乐经济学》</td><td>罗伯特·弗兰克🇺🇸</td><td>中国人民大学出版社<br>2013-9</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-05</td><td width="33%">《魔鬼经济学》</td><td>史蒂芬·列维特🇺🇸<br>史蒂芬·都伯纳🇺🇸</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-06</td><td width="33%">《物种起源（英文全本）》<i class="fa fa-book"></i></td><td>达尔文🇬🇧</td><td>世界图书出版公司<br>2014-1</td><td width="15%"></td></tr>  
+  <tr><td width="10%">S-07</td><td width="33%">《终极算法：机器学习和人工智能如何重塑世界》</td><td>佩德罗·多明戈斯🇺🇸</td><td>中信出版集团<br>2017-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-08</td><td width="33%">《社会心理学》</td><td>戴维·迈尔斯🇺🇸</td><td>人民邮电出版社<br>2016-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-09</td><td width="33%">《写给大家看的设计书》</td><td>威廉姆斯🇺🇸</td><td>人民邮电出版社<br>2015-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-10</td><td width="33%">《资本论》</td><td>卡尔·马克思🇩🇪</td><td>江苏人民出版社<br>2011-3</td><td width="15%"></td></tr>    
+  <tr><td width="10%">S-11</td><td width="33%">《国富论》</td><td>亚当·斯密🇬🇧</td><td>凤凰出版传媒集团<br>江苏人民出版社<br>2011-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-12</td><td width="33%">《西方哲学简史》</td><td>伯特·罗素🇬🇧</td><td>陕西师范大学出版社<br>2010-12</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-13</td><td width="33%">《图解房龙地理》</td><td>威廉·房龙🇺🇸</td><td>中国华侨出版社<br>2014-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-14</td><td width="33%">《那些古怪又让人忧心的问题what if》</td><td>兰道尔·门罗🇺🇸</td><td>北京联合出版公司<br>2015-5</td><td width="15%">★★☆☆☆</td></tr>
+  <tr><td width="10%">S-15</td><td width="33%">《精通IOS开发（第7版）》</td><td>David Mark🇺🇸<br>Jack Nutting🇸🇪<br>Kim Topley🇬🇧<br>Fredrik Olsson🇫🇷<br>Jeff LaMarche🇺🇸<br></td><td>人民邮电出版社<br>2015-9</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-16</td><td width="33%">《Foundations of Financial Markets and Institutions》<i class="fa fa-book"></i></td><td>Frank J. Fabozzi🇺🇸<br>Franco Modigliani🇺🇸<br>Frank J. Jones🇺🇸</td><td>机械工业出版社<br>2011-11</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-17</td><td width="33%">《软件项目管理》</td><td>薛四新🇨🇳<br>贾郭军🇨🇳</td><td>机械工业出版社<br>2010-9</td><td width="15%">★★☆☆☆</td></tr>
+  <tr><td width="10%">S-18</td><td width="33%">《PHP和MySQL Web开发（原书第4版）》</td><td>Luke Welling🇦🇺</td><td>机械工业出版社<br>2009-4</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-19</td><td width="33%">《宇宙的答案云知道》</td><td>加文·普雷特·平尼🇬🇧</td><td><南海出版公司 br="">2012-6</南海出版公司></td><td width="15%">★★★☆☆</td></tr>
+</table>  
+  <p id="barcon" name="barcon" align="right" style="margin-top:10px; padding:0px; margin-bottom:0px;"></p>
+<style type="text/css">　　
+   th {text-align:center}
+   td {text-align:center}
+</style>　
+<script type="text/javascript" src="/js/src/splitpage.js"></script>
+<!--
+<script type="text/javascript" src="/js/src/particle.js"></script>
+-->
+]]></content>
+    </entry>
+    
+  
+</search>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AQSONG’S BLOG</title>
+  <subtitle>beyond horizon</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://aqsong.github.io/"/>
+  <updated>2016-11-24T12:04:14.000Z</updated>
+  <id>http://aqsong.github.io/</id>
+  
+  <author>
+    <name>AQSONG</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://aqsong.github.io/2018/07/13/hello-world/"/>
+    <id>http://aqsong.github.io/2018/07/13/hello-world/</id>
+    <published>2018-07-13T00:23:56.083Z</published>
+    <updated>2016-11-24T12:04:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>. </p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;. &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="http://aqsong.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Hexo" scheme="http://aqsong.github.io/tags/Hexo/"/>
+    
+      <category term="开始" scheme="http://aqsong.github.io/tags/%E5%BC%80%E5%A7%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>科学精神——读《星空的琴弦：天文学史话》</title>
+    <link href="http://aqsong.github.io/2017/10/21/%E7%A7%91%E5%AD%A6%E7%B2%BE%E7%A5%9E%E2%80%94%E2%80%94%E8%AF%BB%E3%80%8A%E6%98%9F%E7%A9%BA%E7%9A%84%E7%90%B4%E5%BC%A6%EF%BC%9A%E5%A4%A9%E6%96%87%E5%AD%A6%E5%8F%B2%E8%AF%9D%E3%80%8B/"/>
+    <id>http://aqsong.github.io/2017/10/21/科学精神——读《星空的琴弦：天文学史话》/</id>
+    <published>2017-10-21T14:53:54.000Z</published>
+    <updated>2017-10-21T15:34:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li><a href="https://book.douban.com/subject/27082359/" target="_blank" rel="external">《星空的琴弦：天文学史话》</a></li>
+<li>汪洁(中)</li>
+<li>北京时代华文书局</li>
+<li>微信读书</li>
+<li>★★★★☆</li>
+</ul>
+<a id="more"></a>
+<h3 id="关于本书"><a href="#关于本书" class="headerlink" title="关于本书"></a>关于本书</h3><p>　　这几天断断续续读完了汪洁老师的《星空的琴弦：天文学史话》，自上一次读完其《时间的形状》已经两年多了，读来也并没有过多的惊喜，中规中矩，作为天文学史科普，汪洁老师做到了科普该有的样子，不过也如他本人所说，相比于之前的《时间的形状》，其玩票性质大减，敬畏之心大涨。<br>　　全书记录了天文学史上大大小小的历史事件，通过一个个天文学问题、一个个天文学故事以及一位位天文学人物，对人类探索宇宙的进程做了梳理，读来也可谓“涨姿势”，最后一章以及后记的点评尤为犀利，印象最深的莫过于他对于科学精神的见解，这也是读完此书让我收获最大的地方。</p>
+<h3 id="关于科学精神"><a href="#关于科学精神" class="headerlink" title="关于科学精神"></a>关于科学精神</h3><p>　　回顾人类历史，漫漫长河中，人类对于浩瀚宇宙的探索从未停止，从神话故事到观测验证，从思辨到实证，人类在追求宇宙真理的道路上，不断挖掘着自身潜能，科学精神在这个过程中逐渐诞生，发展到现在，可以说科学已经成为人类追求真理过程中的一个标杆。<br>　　关于什么是科学精神，每个人都有自己的看法，但我想，科学精神的几个特征应当是被大家公认的。</p>
+<ul>
+<li>可证伪性<br>　　不存在被证明是错误的可能性的理论，不属于科学的范畴。</li>
+<li>可重复性<br>　　无法被重复验证的理论，不属于科学的范畴。</li>
+<li>可预测性<br>　　无法在其适用范围内做出预言的理论，不属于科学的范畴。</li>
+<li>自我纠错性<br>　　宣称自己毫无条件绝对正确的理论，不属于科学的范畴。</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://book.douban.com/subject/27082359/&quot;&gt;《星空的琴弦：天文学史话》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;汪洁(中)&lt;/li&gt;
+&lt;li&gt;北京时代华文书局&lt;/li&gt;
+&lt;li&gt;微信读书&lt;/li&gt;
+&lt;li&gt;★★★★☆&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="读书" scheme="http://aqsong.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+      <category term="科普" scheme="http://aqsong.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
+      <category term="天文，《星空的琴弦：天文学史话》" scheme="http://aqsong.github.io/tags/%E5%A4%A9%E6%96%87%EF%BC%8C%E3%80%8A%E6%98%9F%E7%A9%BA%E7%9A%84%E7%90%B4%E5%BC%A6%EF%BC%9A%E5%A4%A9%E6%96%87%E5%AD%A6%E5%8F%B2%E8%AF%9D%E3%80%8B/"/>
+    
+      <category term="科学精神" scheme="http://aqsong.github.io/tags/%E7%A7%91%E5%AD%A6%E7%B2%BE%E7%A5%9E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python学习笔记之1——字符串常用操作</title>
+    <link href="http://aqsong.github.io/2017/03/29/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B1%E2%80%94%E2%80%94%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C/"/>
+    <id>http://aqsong.github.io/2017/03/29/python学习笔记之1——字符串常用操作/</id>
+    <published>2017-03-29T13:33:13.000Z</published>
+    <updated>2017-03-29T13:36:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong><em>本文持续更新，updated:2017-3-29。</em></strong></p>
+<h3 id="len"><a href="#len" class="headerlink" title="len( )"></a>len( )</h3><p>&emsp;&emsp;获取字符串包含字符个数，包括空格在内。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'abc '</span></div><div class="line"><span class="keyword">print</span> (len(strr))</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果为’4’。<br><a id="more"></a></p>
+<h3 id="upper"><a href="#upper" class="headerlink" title="upper( )"></a>upper( )</h3><p>&emsp;&emsp;将字符串全部大写。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'abc'</span></div><div class="line"><span class="keyword">print</span> (strr)</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果为’ABC’。</p>
+<h3 id="lower"><a href="#lower" class="headerlink" title="lower( )"></a>lower( )</h3><p>&emsp;&emsp;将字符串全部小写。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'ABC'</span></div><div class="line"><span class="keyword">print</span> (strr)</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果为’abc’。</p>
+<h3 id="rstrip-lstrip-strip"><a href="#rstrip-lstrip-strip" class="headerlink" title="rstrip( ), lstrip( ), strip( )"></a>rstrip( ), lstrip( ), strip( )</h3><p>&emsp;&emsp;分别为删除字符串前端空白、后端空白以及两端空白。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'  ab c  '</span></div><div class="line"><span class="keyword">print</span> (strr.rstrip())</div><div class="line"><span class="keyword">print</span> (strr.lstrip())</div><div class="line"><span class="keyword">print</span> (strr.strip())</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果分别为’ab c    ‘、’    ab c’、’ab c’。</p>
+<h3 id="count"><a href="#count" class="headerlink" title="count( )"></a>count( )</h3><p>&emsp;&emsp;确定特定短语在字符串中出现次数。<br><figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'What we eat is what we need.'</span></div><div class="line"><span class="keyword">print</span> (strr.lower().count())</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;输出结果为’2’。</p>
+<h3 id="int-float"><a href="#int-float" class="headerlink" title="int( ), float( )"></a>int( ), float( )</h3><p>&emsp;&emsp;将字符串转换为整数、浮点数。</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">strr = <span class="string">'4'</span></div><div class="line"><span class="keyword">print</span> (int(strr))</div><div class="line"><span class="keyword">print</span> (float(strr))</div></pre></td></tr></table></figure>
+<p>&emsp;&emsp;输出结果为’4’、’4.0’。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;&lt;em&gt;本文持续更新，updated:2017-3-29。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;len&quot;&gt;&lt;a href=&quot;#len&quot; class=&quot;headerlink&quot; title=&quot;len( )&quot;&gt;&lt;/a&gt;len( )&lt;/h3&gt;&lt;p&gt;&amp;emsp;&amp;emsp;获取字符串包含字符个数，包括空格在内。&lt;br&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;strr = &lt;span class=&quot;string&quot;&gt;&#39;abc &#39;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;print&lt;/span&gt; (len(strr))&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&amp;emsp;&amp;emsp;输出结果为’4’。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="http://aqsong.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="http://aqsong.github.io/tags/Python/"/>
+    
+      <category term="学习笔记" scheme="http://aqsong.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="字符串" scheme="http://aqsong.github.io/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python学习笔记之0——关键字内置函数以及编码风格</title>
+    <link href="http://aqsong.github.io/2017/03/29/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B0%E2%80%94%E2%80%94%E5%85%B3%E9%94%AE%E5%AD%97%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0%E4%BB%A5%E5%8F%8A%E7%BC%96%E7%A0%81%E9%A3%8E%E6%A0%BC/"/>
+    <id>http://aqsong.github.io/2017/03/29/python学习笔记之0——关键字内置函数以及编码风格/</id>
+    <published>2017-03-29T12:28:13.000Z</published>
+    <updated>2017-03-29T13:36:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong><em>本文持续更新，updated:2017-3-29。</em></strong></p>
+<p>&emsp;&emsp;变量命名需避开以下关键字和内置函数名称，将关键字用作变量名将引发错误，将内置函数名用作变量名会覆盖函数的行为。</p>
+<a id="more"></a>
+<h4 id="Python关键字"><a href="#Python关键字" class="headerlink" title="Python关键字"></a>Python关键字</h4><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>False</td>
+<td>class</td>
+<td>finally</td>
+<td>is</td>
+<td>return</td>
+</tr>
+<tr>
+<td>None</td>
+<td>continue</td>
+<td>for</td>
+<td>lambda</td>
+<td>try</td>
+</tr>
+<tr>
+<td>True</td>
+<td>def</td>
+<td>from</td>
+<td>nonlocal</td>
+<td>while</td>
+</tr>
+<tr>
+<td>and</td>
+<td>del</td>
+<td>global</td>
+<td>not</td>
+<td>with</td>
+</tr>
+<tr>
+<td>as</td>
+<td>elif</td>
+<td>if</td>
+<td>or</td>
+<td>yield</td>
+</tr>
+<tr>
+<td>assert</td>
+<td>else</td>
+<td>import</td>
+<td>pass</td>
+<td></td>
+</tr>
+<tr>
+<td>break</td>
+<td>except</td>
+<td>in</td>
+<td>raise</td>
+</tr>
+</tbody>
+</table>
+<h4 id="Python内置函数"><a href="#Python内置函数" class="headerlink" title="Python内置函数"></a>Python内置函数</h4><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>abs()</td>
+<td>divmod()</td>
+<td>input()</td>
+<td>open()</td>
+<td>staticmethod()</td>
+</tr>
+<tr>
+<td>all()</td>
+<td>enumerate()</td>
+<td>int()</td>
+<td>ord()</td>
+<td>str()</td>
+</tr>
+<tr>
+<td>any()</td>
+<td>eval()</td>
+<td>isinstance()</td>
+<td>pow()</td>
+<td>sum()</td>
+</tr>
+<tr>
+<td>basestring()</td>
+<td>execfile()</td>
+<td>issubclass()</td>
+<td>print()</td>
+<td>super()</td>
+</tr>
+<tr>
+<td>bin()</td>
+<td>file()</td>
+<td>iter()</td>
+<td>property()</td>
+<td>tuple()</td>
+</tr>
+<tr>
+<td>bool()</td>
+<td>filter()</td>
+<td>len()</td>
+<td>range()</td>
+<td>type()</td>
+</tr>
+<tr>
+<td>bytearray()</td>
+<td>float()</td>
+<td>list()</td>
+<td>raw_input()</td>
+<td>unichr()</td>
+</tr>
+<tr>
+<td>callable()</td>
+<td>format()</td>
+<td>locals()</td>
+<td>reduce()</td>
+<td>unicode()</td>
+</tr>
+<tr>
+<td>chr()</td>
+<td>frozenset()</td>
+<td>long()</td>
+<td>reload()</td>
+<td>vars()</td>
+</tr>
+<tr>
+<td>classmethod()</td>
+<td>getattr()</td>
+<td>map()</td>
+<td>repr()</td>
+<td>xrange()</td>
+</tr>
+<tr>
+<td>cmp()</td>
+<td>globals()</td>
+<td>max()</td>
+<td>reversed()</td>
+<td>zip()</td>
+</tr>
+<tr>
+<td>compile()</td>
+<td>hasattr()</td>
+<td>memoryview()</td>
+<td>round()</td>
+<td>_import_()</td>
+</tr>
+<tr>
+<td>complex()</td>
+<td>hash()</td>
+<td>min()</td>
+<td>set()</td>
+<td>apply()</td>
+</tr>
+<tr>
+<td>delattr()</td>
+<td>help()</td>
+<td>next()</td>
+<td>setattr()</td>
+<td>buffer()</td>
+</tr>
+<tr>
+<td>dict()</td>
+<td>hex()</td>
+<td>object()</td>
+<td>slice()</td>
+<td>coerce()</td>
+</tr>
+<tr>
+<td>dir()</td>
+<td>id()</td>
+<td>oct()</td>
+<td>sorted()</td>
+<td>intern()</td>
+</tr>
+</tbody>
+</table>
+<h4 id="其他建议"><a href="#其他建议" class="headerlink" title="其他建议"></a>其他建议</h4><ul>
+<li>变量名用小写字母，以_表示空格</li>
+<li>函数名用小写字母，以_表示空格</li>
+<li>类名采用驼峰命名法，不使用_</li>
+<li>实例名和模块名采用小写字母，单词之间加_</li>
+<li>在类中，使用一个空行来分隔方法</li>
+<li>在模块中，使用两个空行来分隔类</li>
+<li>先导入标准库模块，添加一个空行，再导入自己编写的模块</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;&lt;em&gt;本文持续更新，updated:2017-3-29。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;emsp;&amp;emsp;变量命名需避开以下关键字和内置函数名称，将关键字用作变量名将引发错误，将内置函数名用作变量名会覆盖函数的行为。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="http://aqsong.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="http://aqsong.github.io/tags/Python/"/>
+    
+      <category term="学习笔记" scheme="http://aqsong.github.io/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="关键字" scheme="http://aqsong.github.io/tags/%E5%85%B3%E9%94%AE%E5%AD%97/"/>
+    
+      <category term="内置函数" scheme="http://aqsong.github.io/tags/%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0/"/>
+    
+      <category term="编码风格" scheme="http://aqsong.github.io/tags/%E7%BC%96%E7%A0%81%E9%A3%8E%E6%A0%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Next建站实践</title>
+    <link href="http://aqsong.github.io/2017/02/23/hexo-next%E5%BB%BA%E7%AB%99%E5%AE%9E%E8%B7%B5/"/>
+    <id>http://aqsong.github.io/2017/02/23/hexo-next建站实践/</id>
+    <published>2017-02-23T12:58:11.000Z</published>
+    <updated>2017-04-04T14:32:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><blockquote class="blockquote-center">世界那么大，我在这里安个家。</blockquote><br><strong><em>本文持续更新，updated:2017.3.29。</em></strong><a id="more"></a></p>
+<h2 id="引子"><a href="#引子" class="headerlink" title="引子"></a>引子</h2><p>&emsp;&emsp;一直以来都希望在网络上找到一个小窝，搭建属于自己的点点滴滴，折腾了N年，多夭折，或者网站倒闭，或者功能繁杂，或者可塑性不强，总是差那么点意思。直到好友<a href="https://wenlongshen.github.io/" target="_blank" rel="external">llArcher</a>向我安利了<code>github</code>，静态网页式的发布维护、轻量级、简单方便，这不正是我要的么，简直就是个天然的博客系统，于是才算安定了下来。<br>&emsp;&emsp;而之所以选择<code>hexo-next</code>的组合则纯粹是偶然，闲逛时看到个站点儿比较喜欢，追查下去，一路知道了“Hexo”，知道了“Next主题”，便也顺手拿了过来，本文就总结一下自己在折腾Hexo+next过程中的实践经历，教程也好，经验也罢，我只当它是个对我自己建站过程的简单小结，如果能帮到你，那也不错。</p>
+<hr>
+<h2 id="关于Hexo"><a href="#关于Hexo" class="headerlink" title="关于Hexo"></a>关于Hexo</h2><p>&emsp;&emsp;Hexo是一个快速、简洁、高效的博客框架，网上关于利用Hexo建站的教程很多，私以为教程再多不如看<a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="external">官方文档</a>，把这篇文档搞懂，分分钟便可以利用Hexo搭建起自己的博客了。</p>
+<hr>
+<h2 id="关于Next"><a href="#关于Next" class="headerlink" title="关于Next"></a>关于Next</h2><p>&emsp;&emsp;Hexo框架下有很多主题可以使用，带来各种各样的风格，Next就是其中之一，关于Next的安装及基本使用技巧，同样的道理，参见<a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="external">官方文档</a>，顺便安利一下主题作者的博客<a href="http://notes.iissnan.com/2015/something-about-next/" target="_blank" rel="external">iissnan’s note</a>。</p>
+<hr>
+<h2 id="我的建站实践"><a href="#我的建站实践" class="headerlink" title="我的建站实践"></a>我的建站实践</h2><p>&emsp;&emsp;以下内容都是我的实践经历，基本上博客做过的修改&amp;值得关注的点都列在上面了，而非对于配置文件的全面详细解读。</p>
+<h5 id="站点url"><a href="#站点url" class="headerlink" title="站点url"></a>站点url</h5><p>&emsp;&emsp;<code>url</code>：一定修改成自己博客的URL，例如<code>url: http://aqsong.github.io</code>不要使用默认的<code>yoursite.com</code>，避免后期使用各种插件、第三方应用时出现链接问题。(根目录下名为<code>_config.yml</code>的文件)</p>
+<h5 id="新文章文件名"><a href="#新文章文件名" class="headerlink" title="新文章文件名"></a>新文章文件名</h5><p>&emsp;&emsp;<code>new_post_name</code>：每一篇文章对应于一个markdown文件，文件名的样式在这里设置，默认以文章标题即title命名，为了便于管理，可在文件名中增加文件建立日期，例如<code>new_post_name: :year-:month-:day-:title.md</code>。(根目录下名为<code>_config.yml</code>的文件)</p>
+<h5 id="添加搜索"><a href="#添加搜索" class="headerlink" title="添加搜索"></a>添加搜索</h5><p>&emsp;&emsp;<code>search</code>：可以为博客添加站内搜索功能，通过安装插件实现。在站点根目录中执行以下命令：<br><figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm <span class="keyword">install</span> hexo-generator-searchdb <span class="comment">--save</span></div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;之后更改配置文件的search选项为：<br><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.<span class="keyword">xml</span></div><div class="line">  <span class="title">field</span>: post,page</div></pre></td></tr></table></figure></p>
+<p>&emsp;&emsp;添加page是为了让搜索不仅仅支持文章，还支持页面。(根目录下名为<code>_config.yml</code>的文件)　　
+　</p>
+<h5 id="菜单栏"><a href="#菜单栏" class="headerlink" title="菜单栏"></a>菜单栏</h5><p>&emsp;&emsp;<code>menu</code>：该选项用来确定菜单栏上所要展示的项目，当新建一个页面并希望其在菜单栏上展示时，除了在该选项下添加页面地址与图标，同时还要修改<code>languages</code>文件夹下相对应的语言文件，最常用的为<code>en.yml</code>和<code>zh-Hans.yml</code>两个文件，修改前者以确定该菜单项英文名称，修改后者确定其简体中文名称。(next目录下名为<code>_config.yml</code>的文件。)</p>
+<h5 id="code样式"><a href="#code样式" class="headerlink" title="code样式"></a>code样式</h5><h5 id="链接样式post-amp-page"><a href="#链接样式post-amp-page" class="headerlink" title="链接样式post&amp;page"></a>链接样式post&amp;page</h5><h5 id="一些莫名其妙的问题"><a href="#一些莫名其妙的问题" class="headerlink" title="一些莫名其妙的问题"></a>一些莫名其妙的问题</h5><ul>
+<li>python代码无法高亮：站点配置文件中的highlight的auto_detect: true已经设置，代码语言已经设置<code>```python</code>，仍然无法高亮，也许可以试试调整代码格式，比如print()语句，如果print后加1空格即可高亮，不加即无法高亮，也是醉了。</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;世界那么大，我在这里安个家。&lt;/blockquote&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;本文持续更新，updated:2017.3.29。&lt;/em&gt;&lt;/strong&gt;
+    
+    </summary>
+    
+      <category term="学习" scheme="http://aqsong.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Hexo" scheme="http://aqsong.github.io/tags/Hexo/"/>
+    
+      <category term="next" scheme="http://aqsong.github.io/tags/next/"/>
+    
+      <category term="github" scheme="http://aqsong.github.io/tags/github/"/>
+    
+      <category term="博客" scheme="http://aqsong.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>看不见的手——读《七堂极简物理课》</title>
+    <link href="http://aqsong.github.io/2017/02/16/%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E6%89%8B%E2%80%94%E2%80%94%E8%AF%BB%E3%80%8A%E4%B8%83%E5%A0%82%E6%9E%81%E7%AE%80%E7%89%A9%E7%90%86%E8%AF%BE%E3%80%8B/"/>
+    <id>http://aqsong.github.io/2017/02/16/看不见的手——读《七堂极简物理课》/</id>
+    <published>2017-02-16T09:08:13.000Z</published>
+    <updated>2017-02-25T08:59:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li><a href="https://book.douban.com/subject/26772731/" target="_blank" rel="external">《七堂极简物理课》</a></li>
+<li>卡洛·罗韦利（意）</li>
+<li>湖南科学技术出版社 2016-5</li>
+<li>Kindle</li>
+<li>★★★★☆</li>
+</ul>
+<a id="more"></a>
+<h3 id="关于本书"><a href="#关于本书" class="headerlink" title="关于本书"></a>关于本书</h3><p>　　昨晚利用了1个多小时的时间读完了意大利理论物理学家卡洛·罗韦利的《七堂极简物理课》，全书不长，不到3万字，主要是对20世纪物理学的两大发现广义相对论和量子物理进行了简要介绍，对于宇宙和基本粒子进行了扼要说明，最后有一些作者的思考，对于看多了科普著作的我来说，并没有太多的惊喜，不过也确实对得起“极简”这个名字了，内容虽简，却也深入浅出，值得一看。　　<br>　　书中给我印象最深的一段话就是下面这一段，作者用它类比了20世纪物理学两大发现的矛盾关系，读到时我居然也笑出了声。</p>
+<blockquote>
+<p><em>悖论在于两个理论都非常好用。大自然就像一位年长的拉比，有两个人跑去找他解决争端。听了第一个人的话，拉比说：“你说的很有道理，”第二个人坚持为自己辩解，拉比听完对他说：“你说的也有道理。”拉比夫人在另一个房间听到了他们的谈话，大声说道：“但是他们不会都有道理吧？”长老认真思考了一下，点点头说：“你说的也很有道理。”</em></p>
+</blockquote>
+<h3 id="关于看不见的的手"><a href="#关于看不见的的手" class="headerlink" title="关于看不见的的手"></a>关于看不见的的手</h3><p>　　看多了科普读物，自己也有意无意地喜欢做些思考，一直有一个观点，认为有一只“看不见的手”在支配着我们日常的一切，量子物理中那些看似荒谬、随机的过程，我一直将其归为这只手的力量，关于那个经典问题“上帝掷骰子吗？”，我始终认为看似随机的骰子行为，也许是我们无法理解的规律，就像对于宠物狗来说，主人哪天出门上班是永远无法把握的事情，是随机的，是无法用公式表达出来的，对于我们人类来说，现阶段正是处于知道怎么样却不知道为什么的时期，我们可以利用量子物理为人类造福，却始终无法参透其中的奥秘，又或者，我们早已掌握了奥秘，却始终未曾理解它。
+　　</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://book.douban.com/subject/26772731/&quot;&gt;《七堂极简物理课》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;卡洛·罗韦利（意）&lt;/li&gt;
+&lt;li&gt;湖南科学技术出版社 2016-5&lt;/li&gt;
+&lt;li&gt;Kindle&lt;/li&gt;
+&lt;li&gt;★★★★☆&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="读书" scheme="http://aqsong.github.io/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+      <category term="科普" scheme="http://aqsong.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
+      <category term="物理" scheme="http://aqsong.github.io/tags/%E7%89%A9%E7%90%86/"/>
+    
+      <category term="相对论" scheme="http://aqsong.github.io/tags/%E7%9B%B8%E5%AF%B9%E8%AE%BA/"/>
+    
+      <category term="量子" scheme="http://aqsong.github.io/tags/%E9%87%8F%E5%AD%90/"/>
+    
+      <category term="《七堂极简物理课》" scheme="http://aqsong.github.io/tags/%E3%80%8A%E4%B8%83%E5%A0%82%E6%9E%81%E7%AE%80%E7%89%A9%E7%90%86%E8%AF%BE%E3%80%8B/"/>
+    
+  </entry>
+  
+</feed>
