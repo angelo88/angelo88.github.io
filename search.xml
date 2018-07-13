@@ -453,6 +453,51 @@
     </entry>
     
     <entry>
+      <title></title>
+      <url>http://aqsong.github.io/mylove/APlayer.min.css</url>
+      <content type="html"><![CDATA[@font-face{font-family:aplayer-fontello;src:url(font/aplayer-fontello.eot?72550380);src:url(font/aplayer-fontello.eot?72550380#iefix) format("embedded-opentype"),url(font/aplayer-fontello.woff?72550380) format("woff"),url(font/aplayer-fontello.ttf?72550380) format("truetype"),url(font/aplayer-fontello.svg?72550380#fontello) format("svg");font-weight:400;font-style:normal}.aplayer-narrow{width:66px}.aplayer-narrow .aplayer-info{display:none}.aplayer-withlrc.aplayer-narrow{width:106px}.aplayer-withlrc.aplayer .aplayer-pic{height:106px;width:106px}.aplayer-withlrc.aplayer .aplayer-info{margin-left:106px;height:106px}.aplayer-withlrc.aplayer .aplayer-lrc{display:block}.aplayer{font-family:Arial,Helvetica,sans-serif;margin:5px;-webkit-box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);-webkit-border-radius:2px;border-radius:2px;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.aplayer [class*=" aplayer-icon-"]:before,.aplayer [class^=aplayer-icon-]:before{font-family:aplayer-fontello;font-style:normal;font-weight:400;display:inline-block;text-decoration:inherit;width:1em;text-align:center;font-variant:normal;text-transform:none;line-height:1em}.aplayer .aplayer-lrc-content,.aplayer .aplayer-pic .aplayer-hide{display:none}.aplayer .aplayer-icon-weibo:before{content:'\e805'}.aplayer .aplayer-icon-play:before{content:'\e806'}.aplayer .aplayer-icon-pause:before{content:'\e807'}.aplayer .aplayer-icon-to-start:before{content:'\e808'}.aplayer .aplayer-icon-to-end:before{content:'\e809'}.aplayer .aplayer-icon-list:before{content:'\e80a'}.aplayer .aplayer-icon-menu:before{content:'\e80b'}.aplayer .aplayer-icon-volume-off:before{content:'\e800'}.aplayer .aplayer-icon-volume-down:before{content:'\e801'}.aplayer .aplayer-icon-volume-up:before{content:'\e802'}.aplayer span{cursor:default!important}.aplayer .aplayer-pic{position:relative;float:left;height:66px;width:66px}.aplayer .aplayer-pic img{height:100%;width:100%}.aplayer .aplayer-pic .aplayer-button{position:absolute;color:#fff;-webkit-border-radius:50%;border-radius:50%;opacity:.8;cursor:pointer;text-shadow:0 1px 1px rgba(0,0,0,.2);-webkit-box-shadow:0 1px 1px rgba(0,0,0,.2);box-shadow:0 1px 1px rgba(0,0,0,.2);background:rgba(0,0,0,.2)}.aplayer .aplayer-pic .aplayer-button:hover{opacity:1}.aplayer .aplayer-pic .aplayer-play{width:26px;height:26px;border:2px solid #fff;top:50%;left:50%;margin:-15px 0 0 -15px}.aplayer .aplayer-pic .aplayer-play .aplayer-icon-play{position:absolute;top:2px;left:4px;font-size:20px;line-height:23px}.aplayer .aplayer-pic .aplayer-pause{width:16px;height:16px;border:2px solid #fff;bottom:4px;right:4px}.aplayer .aplayer-pic .aplayer-pause .aplayer-icon-pause{position:absolute;top:1px;left:2px;font-size:12px;line-height:14px}.aplayer .aplayer-info{margin-left:66px;padding:14px 7px 0 10px;height:66px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.aplayer .aplayer-info .aplayer-music{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;margin-bottom:17px}.aplayer .aplayer-info .aplayer-music .aplayer-title{font-size:14px}.aplayer .aplayer-info .aplayer-music .aplayer-author{font-size:12px;color:#666}.aplayer .aplayer-info .aplayer-controller{position:relative}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap{margin:0 120px 0 5px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar{position:relative;height:2px;width:100%;background:#cdcdcd;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-loaded{position:absolute;left:0;top:0;bottom:0;background:#aaa;height:2px;-webkit-transition:all .5s ease;transition:all .5s ease}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played{position:absolute;left:0;top:0;bottom:0;background:#b7daff;height:2px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb{position:absolute;top:0;right:5px;margin-top:-4px;margin-right:-10px;height:8px;width:8px;border:1px solid #b7daff;-webkit-border-radius:50%;border-radius:50%;background:#fff;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb:hover{background:#b7daff}.aplayer .aplayer-info .aplayer-controller .aplayer-time{position:absolute;right:0;bottom:-5px;height:17px;color:#999;font-size:11px}.aplayer .aplayer-info .aplayer-controller .aplayer-time i{color:#666;font-size:15px}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap{display:inline-block;margin-left:7px;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap:hover .aplayer-volume-bar-wrap{display:block}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap{display:none;position:absolute;bottom:17px;right:-5px;width:25px;height:40px;z-index:99}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar{position:absolute;bottom:0;right:10px;width:5px;height:35px;background:#aaa}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar .aplayer-volume{position:absolute;bottom:0;right:0;width:5px;background:#b7daff}.aplayer .aplayer-lrc{display:none;position:relative;height:40px;background:#fff;text-align:center;overflow:hidden;margin:-10px 0 10px}.aplayer .aplayer-lrc:after,.aplayer .aplayer-lrc:before{position:absolute;z-index:1;display:block;overflow:hidden;content:' ';width:100%}.aplayer .aplayer-lrc:before{top:0;height:10%;background:-webkit-linear-gradient(top,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left top,left bottom,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to bottom,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=0 )}.aplayer .aplayer-lrc:after{bottom:0;height:33%;background:-webkit-linear-gradient(bottom,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left bottom,left top,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to top,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0 )}.aplayer .aplayer-lrc p{font-size:12px;color:#666;line-height:20px;padding:0;margin:0;-webkit-transition:all .5s ease-out;transition:all .5s ease-out;opacity:.4}.aplayer .aplayer-lrc p.aplayer-lrc-current{opacity:1}.aplayer .aplayer-lrc .aplayer-lrc-contents{width:100%;-webkit-transition:all .5s ease-out;transition:all .5s ease-out}]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[标签]]></title>
+      <url>http://aqsong.github.io/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[爱的纪念]]></title>
+      <url>http://aqsong.github.io/mylove/index.html</url>
+      <content type="html"><![CDATA[<!--计时器 开始-->
+<blockquote class="blockquote-center"><p><div id="CountMsg" class="HotDate"></div></p>
+<p><div id="countdown_prompt"> <font size="3">AQSONG</font> <font size="2">与</font> <font size="3">任小胆儿</font> <font size="2">已经牵手走过了：</font></div></p>
+<p><div id="countdown"><span id="t_d">00天</span><span id="t_h">00时</span> <span id="t_m">00分</span><span id="t_s">00秒</span></div></p>
+<p><div id="countdown"><span id="loveYear"><font size="2">今天是第 </font><span id="t_month">00</span><font size="2"> 个月，</font><font size="2">今天是第 </font><span id="t_year">00</span><font size="2"> 年。</font></span><br></div></p>
+<script type="text/javascript" src="/js/src/timer.js"></script></blockquote>
+<!--计时器 结束-->
+<!--音乐播放器 开始-->
+
+<html>
+<head>
+<link rel="stylesheet" href="APlayer.min.css">
+<style>
+.demo{width:200px; margin:10px auto 10px auto}
+.demo p{padding:0px 0}
+</style>
+</head>
+<div class="demo">
+<div id="player1" class="aplayer" style="float:left;"></div>
+<div id="player2" class="aplayer" style="float:right;"></div>
+<script type="text/javascript" src="/js/src/musicplayer.js"></script>
+</div>
+</html>
+
+<!--音乐播放器 结束-->
+<!--左键点击出心形 开始-->
+<script type="text/JavaScript" src="/js/src/love.js"></script>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[我的书架——简明分类索引]]></title>
       <url>http://aqsong.github.io/bookcatalog/index.html</url>
       <content type="html"><![CDATA[<p align="right" style="margin-right:10px; padding:0px; margin-bottom:-20px; margin-top:0px"><a href="/mybookshelf"><i class="fa fa-hand-o-left"></i><b> 回到我的书架</b></a></p>
@@ -521,8 +566,8 @@
  <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
   <i class="fa fa-square-o fa-fw"></i>G-02《福尔摩斯探案全集》<br>
   <i class="fa fa-square-o fa-fw"></i>G-04《黑暗森林》<br>
-  <i class="fa fa-square-o fa-fw"></i>G-07《解忧杂货店》<i class="fa fa-amazon"></i><br>
-  <i class="fa fa-square-o fa-fw"></i>G-08《白夜行》<i class="fa fa-amazon"></i><br>
+  <i class="fa fa-square-o fa-fw"></i>G-07《解忧杂货店》<br>
+  <i class="fa fa-square-o fa-fw"></i>G-08《白夜行》<br>
  </td>
 </tr>
 </table>
@@ -699,51 +744,6 @@
     </entry>
     
     <entry>
-      <title></title>
-      <url>http://aqsong.github.io/mylove/APlayer.min.css</url>
-      <content type="html"><![CDATA[@font-face{font-family:aplayer-fontello;src:url(font/aplayer-fontello.eot?72550380);src:url(font/aplayer-fontello.eot?72550380#iefix) format("embedded-opentype"),url(font/aplayer-fontello.woff?72550380) format("woff"),url(font/aplayer-fontello.ttf?72550380) format("truetype"),url(font/aplayer-fontello.svg?72550380#fontello) format("svg");font-weight:400;font-style:normal}.aplayer-narrow{width:66px}.aplayer-narrow .aplayer-info{display:none}.aplayer-withlrc.aplayer-narrow{width:106px}.aplayer-withlrc.aplayer .aplayer-pic{height:106px;width:106px}.aplayer-withlrc.aplayer .aplayer-info{margin-left:106px;height:106px}.aplayer-withlrc.aplayer .aplayer-lrc{display:block}.aplayer{font-family:Arial,Helvetica,sans-serif;margin:5px;-webkit-box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);-webkit-border-radius:2px;border-radius:2px;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.aplayer [class*=" aplayer-icon-"]:before,.aplayer [class^=aplayer-icon-]:before{font-family:aplayer-fontello;font-style:normal;font-weight:400;display:inline-block;text-decoration:inherit;width:1em;text-align:center;font-variant:normal;text-transform:none;line-height:1em}.aplayer .aplayer-lrc-content,.aplayer .aplayer-pic .aplayer-hide{display:none}.aplayer .aplayer-icon-weibo:before{content:'\e805'}.aplayer .aplayer-icon-play:before{content:'\e806'}.aplayer .aplayer-icon-pause:before{content:'\e807'}.aplayer .aplayer-icon-to-start:before{content:'\e808'}.aplayer .aplayer-icon-to-end:before{content:'\e809'}.aplayer .aplayer-icon-list:before{content:'\e80a'}.aplayer .aplayer-icon-menu:before{content:'\e80b'}.aplayer .aplayer-icon-volume-off:before{content:'\e800'}.aplayer .aplayer-icon-volume-down:before{content:'\e801'}.aplayer .aplayer-icon-volume-up:before{content:'\e802'}.aplayer span{cursor:default!important}.aplayer .aplayer-pic{position:relative;float:left;height:66px;width:66px}.aplayer .aplayer-pic img{height:100%;width:100%}.aplayer .aplayer-pic .aplayer-button{position:absolute;color:#fff;-webkit-border-radius:50%;border-radius:50%;opacity:.8;cursor:pointer;text-shadow:0 1px 1px rgba(0,0,0,.2);-webkit-box-shadow:0 1px 1px rgba(0,0,0,.2);box-shadow:0 1px 1px rgba(0,0,0,.2);background:rgba(0,0,0,.2)}.aplayer .aplayer-pic .aplayer-button:hover{opacity:1}.aplayer .aplayer-pic .aplayer-play{width:26px;height:26px;border:2px solid #fff;top:50%;left:50%;margin:-15px 0 0 -15px}.aplayer .aplayer-pic .aplayer-play .aplayer-icon-play{position:absolute;top:2px;left:4px;font-size:20px;line-height:23px}.aplayer .aplayer-pic .aplayer-pause{width:16px;height:16px;border:2px solid #fff;bottom:4px;right:4px}.aplayer .aplayer-pic .aplayer-pause .aplayer-icon-pause{position:absolute;top:1px;left:2px;font-size:12px;line-height:14px}.aplayer .aplayer-info{margin-left:66px;padding:14px 7px 0 10px;height:66px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.aplayer .aplayer-info .aplayer-music{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;margin-bottom:17px}.aplayer .aplayer-info .aplayer-music .aplayer-title{font-size:14px}.aplayer .aplayer-info .aplayer-music .aplayer-author{font-size:12px;color:#666}.aplayer .aplayer-info .aplayer-controller{position:relative}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap{margin:0 120px 0 5px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar{position:relative;height:2px;width:100%;background:#cdcdcd;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-loaded{position:absolute;left:0;top:0;bottom:0;background:#aaa;height:2px;-webkit-transition:all .5s ease;transition:all .5s ease}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played{position:absolute;left:0;top:0;bottom:0;background:#b7daff;height:2px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb{position:absolute;top:0;right:5px;margin-top:-4px;margin-right:-10px;height:8px;width:8px;border:1px solid #b7daff;-webkit-border-radius:50%;border-radius:50%;background:#fff;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb:hover{background:#b7daff}.aplayer .aplayer-info .aplayer-controller .aplayer-time{position:absolute;right:0;bottom:-5px;height:17px;color:#999;font-size:11px}.aplayer .aplayer-info .aplayer-controller .aplayer-time i{color:#666;font-size:15px}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap{display:inline-block;margin-left:7px;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap:hover .aplayer-volume-bar-wrap{display:block}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap{display:none;position:absolute;bottom:17px;right:-5px;width:25px;height:40px;z-index:99}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar{position:absolute;bottom:0;right:10px;width:5px;height:35px;background:#aaa}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar .aplayer-volume{position:absolute;bottom:0;right:0;width:5px;background:#b7daff}.aplayer .aplayer-lrc{display:none;position:relative;height:40px;background:#fff;text-align:center;overflow:hidden;margin:-10px 0 10px}.aplayer .aplayer-lrc:after,.aplayer .aplayer-lrc:before{position:absolute;z-index:1;display:block;overflow:hidden;content:' ';width:100%}.aplayer .aplayer-lrc:before{top:0;height:10%;background:-webkit-linear-gradient(top,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left top,left bottom,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to bottom,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=0 )}.aplayer .aplayer-lrc:after{bottom:0;height:33%;background:-webkit-linear-gradient(bottom,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left bottom,left top,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to top,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0 )}.aplayer .aplayer-lrc p{font-size:12px;color:#666;line-height:20px;padding:0;margin:0;-webkit-transition:all .5s ease-out;transition:all .5s ease-out;opacity:.4}.aplayer .aplayer-lrc p.aplayer-lrc-current{opacity:1}.aplayer .aplayer-lrc .aplayer-lrc-contents{width:100%;-webkit-transition:all .5s ease-out;transition:all .5s ease-out}]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[爱的纪念]]></title>
-      <url>http://aqsong.github.io/mylove/index.html</url>
-      <content type="html"><![CDATA[<!--计时器 开始-->
-<blockquote class="blockquote-center"><p><div id="CountMsg" class="HotDate"></div></p>
-<p><div id="countdown_prompt"> <font size="3">AQSONG</font> <font size="2">与</font> <font size="3">任小胆儿</font> <font size="2">已经牵手走过了：</font></div></p>
-<p><div id="countdown"><span id="t_d">00天</span><span id="t_h">00时</span> <span id="t_m">00分</span><span id="t_s">00秒</span></div></p>
-<p><div id="countdown"><span id="loveYear"><font size="2">今天是第 </font><span id="t_month">00</span><font size="2"> 个月，</font><font size="2">今天是第 </font><span id="t_year">00</span><font size="2"> 年。</font></span><br></div></p>
-<script type="text/javascript" src="/js/src/timer.js"></script></blockquote>
-<!--计时器 结束-->
-<!--音乐播放器 开始-->
-
-<html>
-<head>
-<link rel="stylesheet" href="APlayer.min.css">
-<style>
-.demo{width:200px; margin:10px auto 10px auto}
-.demo p{padding:0px 0}
-</style>
-</head>
-<div class="demo">
-<div id="player1" class="aplayer" style="float:left;"></div>
-<div id="player2" class="aplayer" style="float:right;"></div>
-<script type="text/javascript" src="/js/src/musicplayer.js"></script>
-</div>
-</html>
-
-<!--音乐播放器 结束-->
-<!--左键点击出心形 开始-->
-<script type="text/JavaScript" src="/js/src/love.js"></script>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[标签]]></title>
-      <url>http://aqsong.github.io/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[我的书架]]></title>
       <url>http://aqsong.github.io/mybookshelf/index.html</url>
       <content type="html"><![CDATA[
@@ -760,114 +760,114 @@
 </thead>   
 </table>
 <table id="idData" style="margin:0px; padding:0px;">   
-  <tr><td width="10%">A-01</td><td width="33%">《哈利·波特与魔法石》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-02</td><td width="33%">《哈利·波特与密室》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-03</td><td width="33%">《哈利·波特与阿兹卡班的囚徒》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-04</td><td width="33%">《哈利·波特与火焰杯》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-05</td><td width="33%">《哈利·波特与凤凰社》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2003-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-06</td><td width="33%">《哈利·波特与混血王子》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2005-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-07</td><td width="33%">《哈利·波特与死亡圣器》</td><td>J.K. 罗琳🇬🇧</td><td>人民文学出版社<br>2007-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-08</td><td width="33%">《哈利·波特与被诅咒的孩子》</td><td>J.K. 罗琳🇬🇧<br>约翰·蒂法尼🇬🇧<br>杰克·索恩🇬🇧</td><td>人民文学出版社<br>2016-9</td><td><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-09</td><td width="33%">《魔戒：护戒同盟》</td><td>J.R.R.托尔金🇬🇧</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-10</td><td width="33%">《魔戒：双塔奇兵》</td><td>J.R.R.托尔金🇬🇧</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-11</td><td width="33%">《魔戒：王者归来》</td><td>J.R.R.托尔金🇬🇧</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-12</td><td width="33%">《The Lord of the Rings》<i class="fa fa-book"></i></td><td>J.R.R.Tolkien🇬🇧</td><td>HarperCollins UK<br>2007-4</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-13</td><td width="33%">《霍比特人》</td><td>J.R.R.托尔金🇬🇧</td><td>上海人民出版社<br>2013-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">A-14</td><td width="33%">《冰与火之歌：权力的游戏》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">A-15</td><td width="33%">《冰与火之歌：列王的纷争》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">A-16</td><td width="33%">《冰与火之歌：冰雨的风暴》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">A-17</td><td width="33%">《冰与火之歌：群鸦的盛宴》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">A-18</td><td width="33%">《冰与火之歌：魔龙的狂舞》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">A-19</td><td width="33%">《七王国的骑士：冰与火之歌外传》</td><td>乔治.R.R.马丁🇺🇸</td><td>重庆出版集团<br>重庆出版社<br>2014-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">A-20</td><td width="33%">《精灵宝钻》</td><td>克里斯托弗·托尔金🇬🇧</td><td>上海人民出版社<br>2015-2</td><td width="15%"></td></tr>
-  <tr><td width="10%">A-21</td><td width="33%">《努门诺尔与中洲之未完的传说》</td><td>克里斯托弗·托尔金🇬🇧</td><td>上海人民出版社<br>2016-8</td><td width="15%"></td></tr>
-  <tr><td width="10%">A-22</td><td width="33%">《Harry Potter》<i class="fa fa-book"></i></td><td>J.K. Rowling🇬🇧</td><td>scholastic<br>2007-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">G-01</td><td width="33%">《S.忒修斯之船》</td><td>J.J.艾布拉姆斯🇺🇸<br>道格·道斯特🇺🇸</td><td>中信出版社<br>2016-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">G-02</td><td width="33%">《福尔摩斯探案全集》</td><td>亚瑟·柯南·道尔🇬🇧</td><td>中华书局<br>2012-10</td><td width="15%"></td></tr>
-  <tr><td width="10%">G-03</td><td width="33%">《三体》</td><td>刘慈欣🇨🇳</td><td>重庆出版社<br>2010-11</td><td width="15%">★★★★☆</td></tr>
-  <tr><td width="10%">G-04</td><td width="33%">《黑暗森林》</td><td>刘慈欣🇨🇳</td><td>重庆出版社<br>2010-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">G-05</td><td width="33%">《死神永生》</td><td>刘慈欣🇨🇳</td><td>重庆出版社<br>2010-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">G-06</td><td width="33%">《嫌疑人X的献身》<i class="fa fa-amazon"></i></td><td>东野圭吾🇯🇵</td><td>南海出版公司<br>2014-06</td><td width="15%"></td></tr>
-  <tr><td width="10%">G-07</td><td width="33%">《解忧杂货店》<i class="fa fa-amazon"></i></td><td>东野圭吾🇯🇵</td><td>南海出版公司<br>2014-05</td><td width="15%"></td></tr>
-  <tr><td width="10%">G-08</td><td width="33%">《白夜行》<i class="fa fa-amazon"></i></td><td>东野圭吾🇯🇵</td><td>南海出版公司<br>2013-01</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-01</td><td width="33%">《果壳中的宇宙》</td><td>史蒂芬·霍金🇬🇧</td><td>湖南科学技术出版社<br>2003-1</td><td width="15%">★★★★☆</td></tr>
-  <tr><td width="10%">I-02</td><td width="33%">《上帝与新物理学》</td><td>戴维斯🇬🇧</td><td>湖南科学技术出版社<br>2011-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-03</td><td width="33%">《从一到无穷大》</td><td>乔治·伽莫夫🇺🇸</td><td>科学出版社<br>2002-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-04</td><td width="33%">《物理世界奇遇记》</td><td>乔治·伽莫夫🇺🇸<br>罗素·斯坦纳德🇺🇸</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-05</td><td width="33%">《奇妙的物理学》</td><td>A.瓦尔拉莫夫🇷🇺<br>L.阿斯拉马卓夫🇷🇺</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-06</td><td width="33%">《啊哈，灵机一动》</td><td>马丁·伽德纳🇺🇸</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-07</td><td width="33%">《啊哈，原来如此》</td><td>马丁·伽德纳🇺🇸</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-08</td><td width="33%">《DK宇宙大百科》</td><td>马丁·里斯🇬🇧</td><td>电子工业出版社<br>2014-12</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-09</td><td width="33%">《DK万物运转的秘密》</td><td>大卫·麦考利🇬🇧<br>尼尔·阿德利</td><td>电子工业出版社<br>2014-5</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-10</td><td width="33%">《素数之恋：黎曼和数学中最大的未解之谜》</td><td>约翰·德比希尔🇺🇸</td><td>上海世纪出版集团<br>2014-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-11</td><td width="33%">《隐藏的现实：平行宇宙是什么》</td><td>B.格林🇺🇸</td><td>人民邮电出版社<br>2013-8</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-12</td><td width="33%"><a href="/2017/02/16/%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E6%89%8B%E2%80%94%E2%80%94%E8%AF%BB%E3%80%8A%E4%B8%83%E5%A0%82%E6%9E%81%E7%AE%80%E7%89%A9%E7%90%86%E8%AF%BE%E3%80%8B/">《七堂极简物理课》</a><i class="fa fa-amazon"></i></td><td>卡洛·罗韦利🇮🇹</td><td>湖南科学技术出版社<br>2016-5</td><td width="15%">★★★★☆</td></tr>
-  <tr><td width="10%">I-13</td><td width="33%">《上帝掷骰子吗？量子物理史话》</td><td>曹天元🇨🇳</td><td>北京联合出版公司<br>2013-9</td><td width="15%">★★★★★</td></tr>
-  <tr><td width="10%">I-14</td><td width="33%">《宇宙的琴弦》</td><td>格林🇺🇸</td><td>湖南科学技术出版社<br>2007-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-15</td><td width="33%">《时间的形状》<i class="fa fa-institution"></i></td><td>汪洁🇨🇳</td><td>新星出版社<br>2012-1</td><td width="15%">★★★☆☆</td></tr>
-  <tr><td width="10%">I-16</td><td width="33%">《无言的宇宙》</td><td>达纳·麦肯齐🇺🇸</td><td>北京联合出版公司<br>2015-5</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-17</td><td width="33%">《数学之美》</td><td>吴军🇨🇳</td><td>人民邮电出版社<br>2014-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-18</td><td width="33%">《宇宙的结构：空间、时间以及真实性的意义》</td><td>布赖恩·格林🇺🇸</td><td>湖南科学技术出版社<br>2012-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-19</td><td width="33%">《超越时空：通过平行宇宙、时间卷曲和第十维度的科学之旅》</td><td>加来道雄🇺🇸</td><td>上海科技教育出版社<br>2015-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">I-20</td><td width="33%">《时间简史》</td><td>史蒂芬·霍金🇬🇧</td><td>湖南科学技术出版社<br>2012-1</td><td width="15%"></td></tr>
- <tr><td width="10%">I-21</td><td width="33%">《星空的琴弦：天文学史话》</td><td>汪洁🇨🇳</td><td>北京时代华文书局<br>2017-8</td><td width="15%">★★★★☆</td></tr>  
+  <tr><td width="10%">A-01</td><td width="33%">《哈利·波特与魔法石》</td><td>J.K. 罗琳（英）</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-02</td><td width="33%">《哈利·波特与密室》</td><td>J.K. 罗琳（英）</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-03</td><td width="33%">《哈利·波特与阿兹卡班的囚徒》</td><td>J.K. 罗琳（英）</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-04</td><td width="33%">《哈利·波特与火焰杯》</td><td>J.K. 罗琳（英）</td><td>人民文学出版社<br>2000-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-05</td><td width="33%">《哈利·波特与凤凰社》</td><td>J.K. 罗琳（英）</td><td>人民文学出版社<br>2003-9</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-06</td><td width="33%">《哈利·波特与混血王子》</td><td>J.K. 罗琳（英）</td><td>人民文学出版社<br>2005-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-07</td><td width="33%">《哈利·波特与死亡圣器》</td><td>J.K. 罗琳（英）</td><td>人民文学出版社<br>2007-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-08</td><td width="33%">《哈利·波特与被诅咒的孩子》</td><td>J.K. 罗琳（英）<br>约翰·蒂法尼（英）<br>杰克·索恩（英）</td><td>人民文学出版社<br>2016-9</td><td><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-09</td><td width="33%">《魔戒：护戒同盟》</td><td>J.R.R.托尔金（英）</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-10</td><td width="33%">《魔戒：双塔奇兵》</td><td>J.R.R.托尔金（英）</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-11</td><td width="33%">《魔戒：王者归来》</td><td>J.R.R.托尔金（英）</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-12</td><td width="33%">《The Lord of the Rings》<i class="fa fa-book"></i></td><td>J.R.R.Tolkien（英）</td><td>HarperCollins UK<br>2007-4</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">A-13</td><td width="33%">《霍比特人》</td><td>J.R.R.托尔金（英）</td><td>上海人民出版社<br>2013-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-14</td><td width="33%">《冰与火之歌：权力的游戏》</td><td>乔治.R.R.马丁（美）</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-15</td><td width="33%">《冰与火之歌：列王的纷争》</td><td>乔治.R.R.马丁（美）</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-16</td><td width="33%">《冰与火之歌：冰雨的风暴》</td><td>乔治.R.R.马丁（美）</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-17</td><td width="33%">《冰与火之歌：群鸦的盛宴》</td><td>乔治.R.R.马丁（美）</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-18</td><td width="33%">《冰与火之歌：魔龙的狂舞》</td><td>乔治.R.R.马丁（美）</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-19</td><td width="33%">《七王国的骑士：冰与火之歌外传》</td><td>乔治.R.R.马丁（美）</td><td>重庆出版集团<br>重庆出版社<br>2014-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-20</td><td width="33%">《精灵宝钻》</td><td>克里斯托弗·托尔金（英）</td><td>上海人民出版社<br>2015-2</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-21</td><td width="33%">《努门诺尔与中洲之未完的传说》</td><td>克里斯托弗·托尔金（英）</td><td>上海人民出版社<br>2016-8</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-22</td><td width="33%">《Harry Potter》<i class="fa fa-book"></i></td><td>J.K. Rowling（英）</td><td>scholastic<br>2007-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
+  <tr><td width="10%">G-01</td><td width="33%">《S.忒修斯之船》</td><td>J.J.艾布拉姆斯（美）<br>道格·道斯特（美）</td><td>中信出版社<br>2016-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-02</td><td width="33%">《福尔摩斯探案全集》</td><td>亚瑟·柯南·道尔（英）</td><td>中华书局<br>2012-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-03</td><td width="33%">《三体》</td><td>刘慈欣（中）</td><td>重庆出版社<br>2010-11</td><td width="15%">★★★★☆</td></tr>
+  <tr><td width="10%">G-04</td><td width="33%">《黑暗森林》</td><td>刘慈欣（中）</td><td>重庆出版社<br>2010-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-05</td><td width="33%">《死神永生》</td><td>刘慈欣（中）</td><td>重庆出版社<br>2010-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-06</td><td width="33%">《嫌疑人X的献身》<i class="fa fa-amazon"></i></td><td>东野圭吾（日）</td><td>南海出版公司<br>2014-06</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-07</td><td width="33%">《解忧杂货店》</td><td>东野圭吾（日）</td><td>南海出版公司<br>2014-05</td><td width="15%"></td></tr>
+  <tr><td width="10%">G-08</td><td width="33%">《白夜行》</td><td>东野圭吾（日）</td><td>南海出版公司<br>2013-01</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-01</td><td width="33%">《果壳中的宇宙》</td><td>史蒂芬·霍金（英）</td><td>湖南科学技术出版社<br>2003-1</td><td width="15%">★★★★☆</td></tr>
+  <tr><td width="10%">I-02</td><td width="33%">《上帝与新物理学》</td><td>戴维斯（英）</td><td>湖南科学技术出版社<br>2011-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-03</td><td width="33%">《从一到无穷大》</td><td>乔治·伽莫夫（美）</td><td>科学出版社<br>2002-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-04</td><td width="33%">《物理世界奇遇记》</td><td>乔治·伽莫夫（美）<br>罗素·斯坦纳德（美）</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-05</td><td width="33%">《奇妙的物理学》</td><td>A.瓦尔拉莫夫（俄）<br>L.阿斯拉马卓夫（俄）</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-06</td><td width="33%">《啊哈，灵机一动》</td><td>马丁·伽德纳（美）</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-07</td><td width="33%">《啊哈，原来如此》</td><td>马丁·伽德纳（美）</td><td>科学出版社<br>2015-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-08</td><td width="33%">《DK宇宙大百科》</td><td>马丁·里斯（英）</td><td>电子工业出版社<br>2014-12</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-09</td><td width="33%">《DK万物运转的秘密》</td><td>大卫·麦考利（英）<br>尼尔·阿德利</td><td>电子工业出版社<br>2014-5</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-10</td><td width="33%">《素数之恋：黎曼和数学中最大的未解之谜》</td><td>约翰·德比希尔（美）</td><td>上海世纪出版集团<br>2014-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-11</td><td width="33%">《隐藏的现实：平行宇宙是什么》</td><td>B.格林（美）</td><td>人民邮电出版社<br>2013-8</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-12</td><td width="33%"><a href="/2017/02/16/%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E6%89%8B%E2%80%94%E2%80%94%E8%AF%BB%E3%80%8A%E4%B8%83%E5%A0%82%E6%9E%81%E7%AE%80%E7%89%A9%E7%90%86%E8%AF%BE%E3%80%8B/">《七堂极简物理课》</a><i class="fa fa-amazon"></i></td><td>卡洛·罗韦利（意）</td><td>湖南科学技术出版社<br>2016-5</td><td width="15%">★★★★☆</td></tr>
+  <tr><td width="10%">I-13</td><td width="33%">《上帝掷骰子吗？量子物理史话》</td><td>曹天元（中）</td><td>北京联合出版公司<br>2013-9</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">I-14</td><td width="33%">《宇宙的琴弦》</td><td>格林（美）</td><td>湖南科学技术出版社<br>2007-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-15</td><td width="33%">《时间的形状》<i class="fa fa-institution"></i></td><td>汪洁（中）</td><td>新星出版社<br>2012-1</td><td width="15%">★★★☆☆</td></tr>
+  <tr><td width="10%">I-16</td><td width="33%">《无言的宇宙》</td><td>达纳·麦肯齐（美）</td><td>北京联合出版公司<br>2015-5</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-17</td><td width="33%">《数学之美》</td><td>吴军（中）</td><td>人民邮电出版社<br>2014-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-18</td><td width="33%">《宇宙的结构：空间、时间以及真实性的意义》</td><td>布赖恩·格林（美）</td><td>湖南科学技术出版社<br>2012-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-19</td><td width="33%">《超越时空：通过平行宇宙、时间卷曲和第十维度的科学之旅》</td><td>加来道雄（美）</td><td>上海科技教育出版社<br>2015-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">I-20</td><td width="33%">《时间简史》</td><td>史蒂芬·霍金（英）</td><td>湖南科学技术出版社<br>2012-1</td><td width="15%"></td></tr>
+ <tr><td width="10%">I-21</td><td width="33%">《星空的琴弦：天文学史话》</td><td>汪洁（中）</td><td>北京时代华文书局<br>2017-8</td><td width="15%">★★★★☆</td></tr>  
 
-<tr><td width="10%">N-01</td><td width="33%">《极简科学史》</td><td>苏珊·怀斯·鲍尔🇺🇸</td><td>中信出版集团<br>2016-11</td><td width="15%"></td></tr>
+<tr><td width="10%">N-01</td><td width="33%">《极简科学史》</td><td>苏珊·怀斯·鲍尔（美）</td><td>中信出版集团<br>2016-11</td><td width="15%"></td></tr>
 
-  <tr><td width="10%">N-02</td><td width="33%">《科学之美：从大爆炸到数字时代》</td><td>戴维·欧瑞尔🇨🇦</td><td>电子工业出版社<br>2015-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-03</td><td width="33%">《全球通史：从史前史到21世纪》</td><td>斯塔夫里阿诺斯🇺🇸</td><td>北京大学出版社<br>2006-10</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-04</td><td width="33%">《极简人类史》</td><td>大卫·克里斯蒂安🇺🇸</td><td>中信出版集团<br>2016-7</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-05</td><td width="33%">《哈弗极简中国史》</td><td>阿尔伯特·克雷格🇺🇸</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-06</td><td width="33%">《万物简史》</td><td>布莱森🇺🇸</td><td>接力出版社<br>2005-2</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-06</td><td width="33%">《图说天下·话说中国历史》</td><td>龚书铎🇨🇳<br>刘德麟🇨🇳</td><td>北京联合出版公司<br>2012-7</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-08</td><td width="33%">《信息简史》</td><td>詹姆斯·格雷克🇺🇸</td><td>人民邮电出版社<br>2013-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-19</td><td width="33%">《图解人类的故事》</td><td>威廉·房龙🇺🇸</td><td>中国华侨出版社<br>2013-8</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-10</td><td width="33%">《1453：君士坦丁堡之战》</td><td>罗杰·克劳利🇬🇧</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-11</td><td width="33%">《海洋帝国：地中海大决战》</td><td>罗杰·克劳利🇬🇧</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-12</td><td width="33%">《财富之城：威尼斯海洋霸权》</td><td>罗杰·克劳利🇬🇧</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-13</td><td width="33%">《科学的旅程》</td><td>雷·斯潘根贝格🇺🇸<br>戴安娜·莫泽🇺🇸</td><td>北京大学出版社<br>2014-3</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-14</td><td width="33%">《人类简史》</td><td>尤瓦尔·赫拉利🇮🇱</td><td>中信出版集团<br>2014-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-15</td><td width="33%">《未来简史》</td><td>尤瓦尔·赫拉利🇮🇱</td><td>中信出版集团<br>2014-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-16</td><td width="33%">《极简宇宙史》</td><td>克里斯托弗·加尔法德🇫🇷</td><td>上海三联书店<br>2016-3</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-17</td><td width="33%">《重说中国近代史》</td><td>张鸣🇨🇳</td><td>中国致公出版社<br>2012-2</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-18</td><td width="33%">《明朝那些事儿》</td><td>当年明月🇨🇳</td><td>京华出版社<br>2011-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-19</td><td width="33%">《极简海洋文明史》</td><td>菲利普·德·索萨🇬🇧</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-20</td><td width="33%">《战争就是这么回事儿》<i class="fa fa-book"></i>></td><td>袁腾飞🇨🇳</td><td>湖南人民出版社<br>2013-06</td><td width="15%"></td></tr>
-  <tr><td width="10%">O-01</td><td width="33%">《小王子》</td><td>安托万·德·圣埃克苏佩里🇫🇷</td><td>天津人民出版社<br>2013-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">O-02</td><td width="33%">《从你的全世界路过》</td><td>张嘉佳🇨🇳</td><td>湖南文艺出版社<br>2013-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">O-03</td><td width="33%">《追风筝的人》</td><td>卡勒德·胡塞尼🇺🇸</td><td>上海人民出版社<br>2006-5</td><td width="15%"></td></tr>
-  <tr><td width="10%">O-04</td><td width="33%">《偷影子的人》</td><td>马克·李维🇫🇷</td><td>湖南文艺出版社<br>2012-7</td><td width="15%"></td></tr>
-  <tr><td width="10%">O-05</td><td width="33%">《平凡的世界》</td><td>路遥🇨🇳</td><td>北京十月文艺出版社<br>2012-3</td><td width="15%"></td></tr>
-  <tr><td width="10%">O-06</td><td width="33%">《摆渡人》</td><td>克莱儿·麦克福尔🇬🇧</td><td>百花洲文艺出版社<br>2015-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">Q-01</td><td width="33%">《纸牌屋》</td><td>迈克尔·道布斯🇬🇧</td><td>百花洲文艺出版社<br>2015-7</td><td width="15%"></td></tr>
-  <tr><td width="10%">Q-02</td><td width="33%">《从0到1开启商业与未来的秘密》</td><td>彼得·蒂尔🇺🇸<br>布莱克·马斯特斯🇺🇸</td><td>中信出版社<br>2015-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">Q-03></td><td width="33%">《逃离不平等》</td><td>安格斯·迪顿🇺🇸</td><td>中信出版社<br>2014-8</td><td width="15%"></td></tr>
-  <tr><td width="10%">Q-04</td><td width="33%">《大数据时代》</td><td>维克托·迈尔-舍恩伯格🇬🇧<br>肯尼斯·库克耶🇬🇧</td><td>浙江人民出版社<br>2013-1</td><td width="15%">★★★☆☆</td></tr>
-  <tr><td width="10%">Q-05</td><td width="33%">《我的钱：互联网金融，如何理财？》</td><td>羿飞🇨🇳</td><td>江苏凤凰文艺出版社<br>2015-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">Q-06</td><td width="33%">《自由选择》</td><td>米尔顿弗里德曼🇺🇸<br>罗丝·D.弗里德曼🇺🇸</td><td>机械工业出版社<br>2013-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">Q-07</td><td width="33%">《艰难一日》</td><td>麦克·欧文🇺🇸<br>凯文·马伦🇺🇸</td><td>国防大学出版社<br>2012-9</td><td width="15%">★★★☆☆</td></tr>
-  <tr><td width="10%">Q-08</td><td width="33%">《大数据》</td><td>涂子沛🇨🇳</td><td>广西师范大学出版社<br>2013-4</td><td width="15%">★★★☆☆</td></tr>
-  <tr><td width="10%">Q-09</td><td width="33%">《天才在左疯子在右》<i class="fa fa-amazon"></i></td><td>高铭🇨🇳</td><td>北京联合出版公司<br>2016-1</td><td width="15%">★★☆☆☆</td></tr>
-  <tr><td width="10%">Q-10</td><td width="33%">《史蒂夫·乔布斯传》</td><td>沃尔特·艾萨克森🇺🇸</td><td>中信出版社<br>2011-10</td><td width="15%">★★★★☆</td></tr>
-  <tr><td width="10%">S-01</td><td width="33%">《经济学原理：微观经济学分册》</td><td>曼昆🇺🇸</td><td>北京大学出版社<br>2015-5</td><td width="15%">★★★★★</td></tr>
-  <tr><td width="10%">S-02</td><td width="33%">《经济学原理：宏观经济学分册》</td><td>曼昆🇺🇸</td><td>北京大学出版社<br>2015-5</td><td width="15%">★★★★★</td></tr>
-  <tr><td width="10%">S-03</td><td width="33%">《飞行中的科学》</td><td>布莱恩·克雷格🇬🇧</td><td>浙江大学出版社<br>2014-1</td><td width="15%">★☆☆☆☆</td></tr>
-  <tr><td width="10%">S-04</td><td width="33%">《牛奶可乐经济学》</td><td>罗伯特·弗兰克🇺🇸</td><td>中国人民大学出版社<br>2013-9</td><td width="15%"></td></tr>
-  <tr><td width="10%">S-05</td><td width="33%">《魔鬼经济学》</td><td>史蒂芬·列维特🇺🇸<br>史蒂芬·都伯纳🇺🇸</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
-  <tr><td width="10%">S-06</td><td width="33%">《物种起源（英文全本）》<i class="fa fa-book"></i></td><td>达尔文🇬🇧</td><td>世界图书出版公司<br>2014-1</td><td width="15%"></td></tr>  
-  <tr><td width="10%">S-07</td><td width="33%">《终极算法：机器学习和人工智能如何重塑世界》</td><td>佩德罗·多明戈斯🇺🇸</td><td>中信出版集团<br>2017-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">S-08</td><td width="33%">《社会心理学》</td><td>戴维·迈尔斯🇺🇸</td><td>人民邮电出版社<br>2016-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">S-09</td><td width="33%">《写给大家看的设计书》</td><td>威廉姆斯🇺🇸</td><td>人民邮电出版社<br>2015-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-02</td><td width="33%">《科学之美：从大爆炸到数字时代》</td><td>戴维·欧瑞尔（加）</td><td>电子工业出版社<br>2015-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-03</td><td width="33%">《全球通史：从史前史到21世纪》</td><td>斯塔夫里阿诺斯（美）</td><td>北京大学出版社<br>2006-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-04</td><td width="33%">《极简人类史》</td><td>大卫·克里斯蒂安（美）</td><td>中信出版集团<br>2016-7</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-05</td><td width="33%">《哈弗极简中国史》</td><td>阿尔伯特·克雷格（美）</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-06</td><td width="33%">《万物简史》</td><td>布莱森（美）</td><td>接力出版社<br>2005-2</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-06</td><td width="33%">《图说天下·话说中国历史》</td><td>龚书铎（中）<br>刘德麟（中）</td><td>北京联合出版公司<br>2012-7</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-08</td><td width="33%">《信息简史》</td><td>詹姆斯·格雷克（美）</td><td>人民邮电出版社<br>2013-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-19</td><td width="33%">《图解人类的故事》</td><td>威廉·房龙（美）</td><td>中国华侨出版社<br>2013-8</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-10</td><td width="33%">《1453：君士坦丁堡之战》</td><td>罗杰·克劳利（英）</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-11</td><td width="33%">《海洋帝国：地中海大决战》</td><td>罗杰·克劳利（英）</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-12</td><td width="33%">《财富之城：威尼斯海洋霸权》</td><td>罗杰·克劳利（英）</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-13</td><td width="33%">《科学的旅程》</td><td>雷·斯潘根贝格（美）<br>戴安娜·莫泽（美）</td><td>北京大学出版社<br>2014-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-14</td><td width="33%">《人类简史》</td><td>尤瓦尔·赫拉利（以）</td><td>中信出版集团<br>2014-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-15</td><td width="33%">《未来简史》</td><td>尤瓦尔·赫拉利（以）</td><td>中信出版集团<br>2014-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-16</td><td width="33%">《极简宇宙史》</td><td>克里斯托弗·加尔法德（法）</td><td>上海三联书店<br>2016-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-17</td><td width="33%">《重说中国近代史》</td><td>张鸣（中）</td><td>中国致公出版社<br>2012-2</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-18</td><td width="33%">《明朝那些事儿》</td><td>当年明月（中）</td><td>京华出版社<br>2011-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-19</td><td width="33%">《极简海洋文明史》</td><td>菲利普·德·索萨（英）</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-20</td><td width="33%">《战争就是这么回事儿》<i class="fa fa-book"></i>></td><td>袁腾飞（中）</td><td>湖南人民出版社<br>2013-06</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-01</td><td width="33%">《小王子》</td><td>安托万·德·圣埃克苏佩里（法）</td><td>天津人民出版社<br>2013-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-02</td><td width="33%">《从你的全世界路过》</td><td>张嘉佳（中）</td><td>湖南文艺出版社<br>2013-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-03</td><td width="33%">《追风筝的人》</td><td>卡勒德·胡塞尼（美）</td><td>上海人民出版社<br>2006-5</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-04</td><td width="33%">《偷影子的人》</td><td>马克·李维（法）</td><td>湖南文艺出版社<br>2012-7</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-05</td><td width="33%">《平凡的世界》</td><td>路遥（中）</td><td>北京十月文艺出版社<br>2012-3</td><td width="15%"></td></tr>
+  <tr><td width="10%">O-06</td><td width="33%">《摆渡人》</td><td>克莱儿·麦克福尔（英）</td><td>百花洲文艺出版社<br>2015-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-01</td><td width="33%">《纸牌屋》</td><td>迈克尔·道布斯（英）</td><td>百花洲文艺出版社<br>2015-7</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-02</td><td width="33%">《从0到1开启商业与未来的秘密》</td><td>彼得·蒂尔（美）<br>布莱克·马斯特斯（美）</td><td>中信出版社<br>2015-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-03></td><td width="33%">《逃离不平等》</td><td>安格斯·迪顿（美）</td><td>中信出版社<br>2014-8</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-04</td><td width="33%">《大数据时代》</td><td>维克托·迈尔-舍恩伯格（英）<br>肯尼斯·库克耶（英）</td><td>浙江人民出版社<br>2013-1</td><td width="15%">★★★☆☆</td></tr>
+  <tr><td width="10%">Q-05</td><td width="33%">《我的钱：互联网金融，如何理财？》</td><td>羿飞（中）</td><td>江苏凤凰文艺出版社<br>2015-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-06</td><td width="33%">《自由选择》</td><td>米尔顿弗里德曼（美）<br>罗丝·D.弗里德曼（美）</td><td>机械工业出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-07</td><td width="33%">《艰难一日》</td><td>麦克·欧文（美）<br>凯文·马伦（美）</td><td>国防大学出版社<br>2012-9</td><td width="15%">★★★☆☆</td></tr>
+  <tr><td width="10%">Q-08</td><td width="33%">《大数据》</td><td>涂子沛（中）</td><td>广西师范大学出版社<br>2013-4</td><td width="15%">★★★☆☆</td></tr>
+  <tr><td width="10%">Q-09</td><td width="33%">《天才在左疯子在右》<i class="fa fa-amazon"></i></td><td>高铭（中）</td><td>北京联合出版公司<br>2016-1</td><td width="15%">★★☆☆☆</td></tr>
+  <tr><td width="10%">Q-10</td><td width="33%">《史蒂夫·乔布斯传》</td><td>沃尔特·艾萨克森（美）</td><td>中信出版社<br>2011-10</td><td width="15%">★★★★☆</td></tr>
+  <tr><td width="10%">S-01</td><td width="33%">《经济学原理：微观经济学分册》</td><td>曼昆（美）</td><td>北京大学出版社<br>2015-5</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-02</td><td width="33%">《经济学原理：宏观经济学分册》</td><td>曼昆（美）</td><td>北京大学出版社<br>2015-5</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-03</td><td width="33%">《飞行中的科学》</td><td>布莱恩·克雷格（英）</td><td>浙江大学出版社<br>2014-1</td><td width="15%">★☆☆☆☆</td></tr>
+  <tr><td width="10%">S-04</td><td width="33%">《牛奶可乐经济学》</td><td>罗伯特·弗兰克（美）</td><td>中国人民大学出版社<br>2013-9</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-05</td><td width="33%">《魔鬼经济学》</td><td>史蒂芬·列维特（美）<br>史蒂芬·都伯纳（美）</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-06</td><td width="33%">《物种起源（英文全本）》<i class="fa fa-book"></i></td><td>达尔文（英）</td><td>世界图书出版公司<br>2014-1</td><td width="15%"></td></tr>  
+  <tr><td width="10%">S-07</td><td width="33%">《终极算法：机器学习和人工智能如何重塑世界》</td><td>佩德罗·多明戈斯（美）</td><td>中信出版集团<br>2017-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-08</td><td width="33%">《社会心理学》</td><td>戴维·迈尔斯（美）</td><td>人民邮电出版社<br>2016-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-09</td><td width="33%">《写给大家看的设计书》</td><td>威廉姆斯（美）</td><td>人民邮电出版社<br>2015-11</td><td width="15%"></td></tr>
   <tr><td width="10%">S-10</td><td width="33%">《资本论》</td><td>卡尔·马克思🇩🇪</td><td>江苏人民出版社<br>2011-3</td><td width="15%"></td></tr>    
-  <tr><td width="10%">S-11</td><td width="33%">《国富论》</td><td>亚当·斯密🇬🇧</td><td>凤凰出版传媒集团<br>江苏人民出版社<br>2011-6</td><td width="15%"></td></tr>
-  <tr><td width="10%">S-12</td><td width="33%">《西方哲学简史》</td><td>伯特·罗素🇬🇧</td><td>陕西师范大学出版社<br>2010-12</td><td width="15%"></td></tr>
-  <tr><td width="10%">S-13</td><td width="33%">《图解房龙地理》</td><td>威廉·房龙🇺🇸</td><td>中国华侨出版社<br>2014-1</td><td width="15%"></td></tr>
-  <tr><td width="10%">S-14</td><td width="33%">《那些古怪又让人忧心的问题what if》</td><td>兰道尔·门罗🇺🇸</td><td>北京联合出版公司<br>2015-5</td><td width="15%">★★☆☆☆</td></tr>
-  <tr><td width="10%">S-15</td><td width="33%">《精通IOS开发（第7版）》</td><td>David Mark🇺🇸<br>Jack Nutting🇸🇪<br>Kim Topley🇬🇧<br>Fredrik Olsson🇫🇷<br>Jeff LaMarche🇺🇸<br></td><td>人民邮电出版社<br>2015-9</td><td width="15%">★★★★★</td></tr>
-  <tr><td width="10%">S-16</td><td width="33%">《Foundations of Financial Markets and Institutions》<i class="fa fa-book"></i></td><td>Frank J. Fabozzi🇺🇸<br>Franco Modigliani🇺🇸<br>Frank J. Jones🇺🇸</td><td>机械工业出版社<br>2011-11</td><td width="15%">★★★★★</td></tr>
-  <tr><td width="10%">S-17</td><td width="33%">《软件项目管理》</td><td>薛四新🇨🇳<br>贾郭军🇨🇳</td><td>机械工业出版社<br>2010-9</td><td width="15%">★★☆☆☆</td></tr>
+  <tr><td width="10%">S-11</td><td width="33%">《国富论》</td><td>亚当·斯密（英）</td><td>凤凰出版传媒集团<br>江苏人民出版社<br>2011-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-12</td><td width="33%">《西方哲学简史》</td><td>伯特·罗素（英）</td><td>陕西师范大学出版社<br>2010-12</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-13</td><td width="33%">《图解房龙地理》</td><td>威廉·房龙（美）</td><td>中国华侨出版社<br>2014-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">S-14</td><td width="33%">《那些古怪又让人忧心的问题what if》</td><td>兰道尔·门罗（美）</td><td>北京联合出版公司<br>2015-5</td><td width="15%">★★☆☆☆</td></tr>
+  <tr><td width="10%">S-15</td><td width="33%">《精通IOS开发（第7版）》</td><td>David Mark（美）<br>Jack Nutting🇸🇪<br>Kim Topley（英）<br>Fredrik Olsson（法）<br>Jeff LaMarche（美）<br></td><td>人民邮电出版社<br>2015-9</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-16</td><td width="33%">《Foundations of Financial Markets and Institutions》<i class="fa fa-book"></i></td><td>Frank J. Fabozzi（美）<br>Franco Modigliani（美）<br>Frank J. Jones（美）</td><td>机械工业出版社<br>2011-11</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-17</td><td width="33%">《软件项目管理》</td><td>薛四新（中）<br>贾郭军（中）</td><td>机械工业出版社<br>2010-9</td><td width="15%">★★☆☆☆</td></tr>
   <tr><td width="10%">S-18</td><td width="33%">《PHP和MySQL Web开发（原书第4版）》</td><td>Luke Welling🇦🇺</td><td>机械工业出版社<br>2009-4</td><td width="15%">★★★★★</td></tr>
-  <tr><td width="10%">S-19</td><td width="33%">《宇宙的答案云知道》</td><td>加文·普雷特·平尼🇬🇧</td><td><南海出版公司 br="">2012-6</南海出版公司></td><td width="15%">★★★☆☆</td></tr>
+  <tr><td width="10%">S-19</td><td width="33%">《宇宙的答案云知道》</td><td>加文·普雷特·平尼（英）</td><td><南海出版公司 br="">2012-6</南海出版公司></td><td width="15%">★★★☆☆</td></tr>
 </table>  
   <p id="barcon" name="barcon" align="right" style="margin-top:10px; padding:0px; margin-bottom:0px;"></p>
 <style type="text/css">　　
