@@ -447,24 +447,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[分类]]></title>
-      <url>http://aqsong.github.io/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>http://aqsong.github.io/mylove/APlayer.min.css</url>
-      <content type="html"><![CDATA[@font-face{font-family:aplayer-fontello;src:url(font/aplayer-fontello.eot?72550380);src:url(font/aplayer-fontello.eot?72550380#iefix) format("embedded-opentype"),url(font/aplayer-fontello.woff?72550380) format("woff"),url(font/aplayer-fontello.ttf?72550380) format("truetype"),url(font/aplayer-fontello.svg?72550380#fontello) format("svg");font-weight:400;font-style:normal}.aplayer-narrow{width:66px}.aplayer-narrow .aplayer-info{display:none}.aplayer-withlrc.aplayer-narrow{width:106px}.aplayer-withlrc.aplayer .aplayer-pic{height:106px;width:106px}.aplayer-withlrc.aplayer .aplayer-info{margin-left:106px;height:106px}.aplayer-withlrc.aplayer .aplayer-lrc{display:block}.aplayer{font-family:Arial,Helvetica,sans-serif;margin:5px;-webkit-box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);-webkit-border-radius:2px;border-radius:2px;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.aplayer [class*=" aplayer-icon-"]:before,.aplayer [class^=aplayer-icon-]:before{font-family:aplayer-fontello;font-style:normal;font-weight:400;display:inline-block;text-decoration:inherit;width:1em;text-align:center;font-variant:normal;text-transform:none;line-height:1em}.aplayer .aplayer-lrc-content,.aplayer .aplayer-pic .aplayer-hide{display:none}.aplayer .aplayer-icon-weibo:before{content:'\e805'}.aplayer .aplayer-icon-play:before{content:'\e806'}.aplayer .aplayer-icon-pause:before{content:'\e807'}.aplayer .aplayer-icon-to-start:before{content:'\e808'}.aplayer .aplayer-icon-to-end:before{content:'\e809'}.aplayer .aplayer-icon-list:before{content:'\e80a'}.aplayer .aplayer-icon-menu:before{content:'\e80b'}.aplayer .aplayer-icon-volume-off:before{content:'\e800'}.aplayer .aplayer-icon-volume-down:before{content:'\e801'}.aplayer .aplayer-icon-volume-up:before{content:'\e802'}.aplayer span{cursor:default!important}.aplayer .aplayer-pic{position:relative;float:left;height:66px;width:66px}.aplayer .aplayer-pic img{height:100%;width:100%}.aplayer .aplayer-pic .aplayer-button{position:absolute;color:#fff;-webkit-border-radius:50%;border-radius:50%;opacity:.8;cursor:pointer;text-shadow:0 1px 1px rgba(0,0,0,.2);-webkit-box-shadow:0 1px 1px rgba(0,0,0,.2);box-shadow:0 1px 1px rgba(0,0,0,.2);background:rgba(0,0,0,.2)}.aplayer .aplayer-pic .aplayer-button:hover{opacity:1}.aplayer .aplayer-pic .aplayer-play{width:26px;height:26px;border:2px solid #fff;top:50%;left:50%;margin:-15px 0 0 -15px}.aplayer .aplayer-pic .aplayer-play .aplayer-icon-play{position:absolute;top:2px;left:4px;font-size:20px;line-height:23px}.aplayer .aplayer-pic .aplayer-pause{width:16px;height:16px;border:2px solid #fff;bottom:4px;right:4px}.aplayer .aplayer-pic .aplayer-pause .aplayer-icon-pause{position:absolute;top:1px;left:2px;font-size:12px;line-height:14px}.aplayer .aplayer-info{margin-left:66px;padding:14px 7px 0 10px;height:66px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.aplayer .aplayer-info .aplayer-music{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;margin-bottom:17px}.aplayer .aplayer-info .aplayer-music .aplayer-title{font-size:14px}.aplayer .aplayer-info .aplayer-music .aplayer-author{font-size:12px;color:#666}.aplayer .aplayer-info .aplayer-controller{position:relative}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap{margin:0 120px 0 5px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar{position:relative;height:2px;width:100%;background:#cdcdcd;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-loaded{position:absolute;left:0;top:0;bottom:0;background:#aaa;height:2px;-webkit-transition:all .5s ease;transition:all .5s ease}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played{position:absolute;left:0;top:0;bottom:0;background:#b7daff;height:2px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb{position:absolute;top:0;right:5px;margin-top:-4px;margin-right:-10px;height:8px;width:8px;border:1px solid #b7daff;-webkit-border-radius:50%;border-radius:50%;background:#fff;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb:hover{background:#b7daff}.aplayer .aplayer-info .aplayer-controller .aplayer-time{position:absolute;right:0;bottom:-5px;height:17px;color:#999;font-size:11px}.aplayer .aplayer-info .aplayer-controller .aplayer-time i{color:#666;font-size:15px}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap{display:inline-block;margin-left:7px;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap:hover .aplayer-volume-bar-wrap{display:block}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap{display:none;position:absolute;bottom:17px;right:-5px;width:25px;height:40px;z-index:99}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar{position:absolute;bottom:0;right:10px;width:5px;height:35px;background:#aaa}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar .aplayer-volume{position:absolute;bottom:0;right:0;width:5px;background:#b7daff}.aplayer .aplayer-lrc{display:none;position:relative;height:40px;background:#fff;text-align:center;overflow:hidden;margin:-10px 0 10px}.aplayer .aplayer-lrc:after,.aplayer .aplayer-lrc:before{position:absolute;z-index:1;display:block;overflow:hidden;content:' ';width:100%}.aplayer .aplayer-lrc:before{top:0;height:10%;background:-webkit-linear-gradient(top,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left top,left bottom,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to bottom,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=0 )}.aplayer .aplayer-lrc:after{bottom:0;height:33%;background:-webkit-linear-gradient(bottom,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left bottom,left top,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to top,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0 )}.aplayer .aplayer-lrc p{font-size:12px;color:#666;line-height:20px;padding:0;margin:0;-webkit-transition:all .5s ease-out;transition:all .5s ease-out;opacity:.4}.aplayer .aplayer-lrc p.aplayer-lrc-current{opacity:1}.aplayer .aplayer-lrc .aplayer-lrc-contents{width:100%;-webkit-transition:all .5s ease-out;transition:all .5s ease-out}]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[标签]]></title>
-      <url>http://aqsong.github.io/tags/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[爱的纪念]]></title>
       <url>http://aqsong.github.io/mylove/index.html</url>
       <content type="html"><![CDATA[<!--计时器 开始-->
@@ -495,6 +477,24 @@
 <!--左键点击出心形 开始-->
 <script type="text/JavaScript" src="/js/src/love.js"></script>
 ]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[分类]]></title>
+      <url>http://aqsong.github.io/categories/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://aqsong.github.io/mylove/APlayer.min.css</url>
+      <content type="html"><![CDATA[@font-face{font-family:aplayer-fontello;src:url(font/aplayer-fontello.eot?72550380);src:url(font/aplayer-fontello.eot?72550380#iefix) format("embedded-opentype"),url(font/aplayer-fontello.woff?72550380) format("woff"),url(font/aplayer-fontello.ttf?72550380) format("truetype"),url(font/aplayer-fontello.svg?72550380#fontello) format("svg");font-weight:400;font-style:normal}.aplayer-narrow{width:66px}.aplayer-narrow .aplayer-info{display:none}.aplayer-withlrc.aplayer-narrow{width:106px}.aplayer-withlrc.aplayer .aplayer-pic{height:106px;width:106px}.aplayer-withlrc.aplayer .aplayer-info{margin-left:106px;height:106px}.aplayer-withlrc.aplayer .aplayer-lrc{display:block}.aplayer{font-family:Arial,Helvetica,sans-serif;margin:5px;-webkit-box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);-webkit-border-radius:2px;border-radius:2px;overflow:hidden;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.aplayer [class*=" aplayer-icon-"]:before,.aplayer [class^=aplayer-icon-]:before{font-family:aplayer-fontello;font-style:normal;font-weight:400;display:inline-block;text-decoration:inherit;width:1em;text-align:center;font-variant:normal;text-transform:none;line-height:1em}.aplayer .aplayer-lrc-content,.aplayer .aplayer-pic .aplayer-hide{display:none}.aplayer .aplayer-icon-weibo:before{content:'\e805'}.aplayer .aplayer-icon-play:before{content:'\e806'}.aplayer .aplayer-icon-pause:before{content:'\e807'}.aplayer .aplayer-icon-to-start:before{content:'\e808'}.aplayer .aplayer-icon-to-end:before{content:'\e809'}.aplayer .aplayer-icon-list:before{content:'\e80a'}.aplayer .aplayer-icon-menu:before{content:'\e80b'}.aplayer .aplayer-icon-volume-off:before{content:'\e800'}.aplayer .aplayer-icon-volume-down:before{content:'\e801'}.aplayer .aplayer-icon-volume-up:before{content:'\e802'}.aplayer span{cursor:default!important}.aplayer .aplayer-pic{position:relative;float:left;height:66px;width:66px}.aplayer .aplayer-pic img{height:100%;width:100%}.aplayer .aplayer-pic .aplayer-button{position:absolute;color:#fff;-webkit-border-radius:50%;border-radius:50%;opacity:.8;cursor:pointer;text-shadow:0 1px 1px rgba(0,0,0,.2);-webkit-box-shadow:0 1px 1px rgba(0,0,0,.2);box-shadow:0 1px 1px rgba(0,0,0,.2);background:rgba(0,0,0,.2)}.aplayer .aplayer-pic .aplayer-button:hover{opacity:1}.aplayer .aplayer-pic .aplayer-play{width:26px;height:26px;border:2px solid #fff;top:50%;left:50%;margin:-15px 0 0 -15px}.aplayer .aplayer-pic .aplayer-play .aplayer-icon-play{position:absolute;top:2px;left:4px;font-size:20px;line-height:23px}.aplayer .aplayer-pic .aplayer-pause{width:16px;height:16px;border:2px solid #fff;bottom:4px;right:4px}.aplayer .aplayer-pic .aplayer-pause .aplayer-icon-pause{position:absolute;top:1px;left:2px;font-size:12px;line-height:14px}.aplayer .aplayer-info{margin-left:66px;padding:14px 7px 0 10px;height:66px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.aplayer .aplayer-info .aplayer-music{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;margin-bottom:17px}.aplayer .aplayer-info .aplayer-music .aplayer-title{font-size:14px}.aplayer .aplayer-info .aplayer-music .aplayer-author{font-size:12px;color:#666}.aplayer .aplayer-info .aplayer-controller{position:relative}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap{margin:0 120px 0 5px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar{position:relative;height:2px;width:100%;background:#cdcdcd;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-loaded{position:absolute;left:0;top:0;bottom:0;background:#aaa;height:2px;-webkit-transition:all .5s ease;transition:all .5s ease}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played{position:absolute;left:0;top:0;bottom:0;background:#b7daff;height:2px}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb{position:absolute;top:0;right:5px;margin-top:-4px;margin-right:-10px;height:8px;width:8px;border:1px solid #b7daff;-webkit-border-radius:50%;border-radius:50%;background:#fff;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb:hover{background:#b7daff}.aplayer .aplayer-info .aplayer-controller .aplayer-time{position:absolute;right:0;bottom:-5px;height:17px;color:#999;font-size:11px}.aplayer .aplayer-info .aplayer-controller .aplayer-time i{color:#666;font-size:15px}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap{display:inline-block;margin-left:7px;cursor:pointer!important}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap:hover .aplayer-volume-bar-wrap{display:block}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap{display:none;position:absolute;bottom:17px;right:-5px;width:25px;height:40px;z-index:99}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar{position:absolute;bottom:0;right:10px;width:5px;height:35px;background:#aaa}.aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar .aplayer-volume{position:absolute;bottom:0;right:0;width:5px;background:#b7daff}.aplayer .aplayer-lrc{display:none;position:relative;height:40px;background:#fff;text-align:center;overflow:hidden;margin:-10px 0 10px}.aplayer .aplayer-lrc:after,.aplayer .aplayer-lrc:before{position:absolute;z-index:1;display:block;overflow:hidden;content:' ';width:100%}.aplayer .aplayer-lrc:before{top:0;height:10%;background:-webkit-linear-gradient(top,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left top,left bottom,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to bottom,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=0 )}.aplayer .aplayer-lrc:after{bottom:0;height:33%;background:-webkit-linear-gradient(bottom,#fff 0,rgba(255,255,255,0) 100%);background:-webkit-gradient(linear,left bottom,left top,from(white),to(rgba(255,255,255,0)));background:linear-gradient(to top,#fff 0,rgba(255,255,255,0) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0 )}.aplayer .aplayer-lrc p{font-size:12px;color:#666;line-height:20px;padding:0;margin:0;-webkit-transition:all .5s ease-out;transition:all .5s ease-out;opacity:.4}.aplayer .aplayer-lrc p.aplayer-lrc-current{opacity:1}.aplayer .aplayer-lrc .aplayer-lrc-contents{width:100%;-webkit-transition:all .5s ease-out;transition:all .5s ease-out}]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[标签]]></title>
+      <url>http://aqsong.github.io/tags/index.html</url>
+      <content type="html"></content>
     </entry>
     
     <entry>
@@ -637,7 +637,7 @@
  </td>
  <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
   <i class="fa fa-square-o fa-fw"></i>N-13《科学的旅程》<br>
-  <font color="#6A6AFF"><i class="fa fa-refresh fa-spin fa-fw"></i></font>N-14《人类简史》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>N-14《人类简史》<br>
   <i class="fa fa-square-o fa-fw"></i>N-15《未来简史》<br>
   <i class="fa fa-square-o fa-fw"></i>N-16《极简宇宙史》<br>
   <i class="fa fa-square-o fa-fw"></i>N-17《重说中国近代史》<br>
@@ -645,6 +645,8 @@
   <i class="fa fa-square-o fa-fw"></i>N-19《极简海洋文明史》<br>
   <i class="fa fa-square-o fa-fw"></i>N-11《海洋帝国：地中海大决战》<br>
   <i class="fa fa-square-o fa-fw"></i>N-12《财富之城：威尼斯海洋霸权》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-21《思维简史》<br>
+  <i class="fa fa-square-o fa-fw"></i>N-22《基因传》<br>
  </td>
 </tr>
 </table>
@@ -693,7 +695,7 @@
  </td>
  <td style="background-color:#FFFFFF;border-right:0;border-top:2px solid #9D9D9D;border-bottom:0;vertical-align:top">
   <i class="fa fa-check-square-o fa-fw"></i>Q-04《大数据时代》<br>
-  <i class="fa fa-square-o fa-fw"></i>Q-05《我的钱：互联网金融，如何理财？》<br>
+  <i class="fa fa-check-square-o fa-fw"></i>Q-05《我的钱：互联网金融，如何理财？》<br>
   <i class="fa fa-square-o fa-fw"></i>Q-06《自由选择》<br>
   <i class="fa fa-check-square-o fa-fw"></i>Q-08《大数据》<br>
   <i class="fa fa-check-square-o fa-fw"></i>Q-10《史蒂夫·乔布斯传》<br>
@@ -748,6 +750,8 @@
       <url>http://aqsong.github.io/mybookshelf/index.html</url>
       <content type="html"><![CDATA[
 <p align="right" style="margin-right:10px; padding:0px; margin-bottom:0px; margin-top:0px"><a href="/bookcatalog"><b>简明分类索引 </b><i class="fa fa-hand-o-right"></i></a></p>
+<p id="barcon" name="barcon" align="left" style="margin-top:0px; padding:0px; margin-bottom:0px;"></p>
+<script type="text/javascript" src="/js/src/splitpage.js"></script>
 <table style="margin:0px; padding:0px;">
 <thead>
     <tr>
@@ -772,7 +776,7 @@
   <tr><td width="10%">A-10</td><td width="33%">《魔戒：双塔奇兵》</td><td>J.R.R.托尔金（英）</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
   <tr><td width="10%">A-11</td><td width="33%">《魔戒：王者归来》</td><td>J.R.R.托尔金（英）</td><td>上海人民出版社<br>2013-10</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
   <tr><td width="10%">A-12</td><td width="33%">《The Lord of the Rings》<i class="fa fa-book"></i></td><td>J.R.R.Tolkien（英）</td><td>HarperCollins UK<br>2007-4</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
-  <tr><td width="10%">A-13</td><td width="33%">《霍比特人》</td><td>J.R.R.托尔金（英）</td><td>上海人民出版社<br>2013-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">A-13</td><td width="33%">《霍比特人》</td><td>J.R.R.托尔金（英）</td><td>上海人民出版社<br>2013-1</td><td width="15%"><font color="#FFD306">★★★★★</font></td></tr>
   <tr><td width="10%">A-14</td><td width="33%">《冰与火之歌：权力的游戏》</td><td>乔治.R.R.马丁（美）</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
   <tr><td width="10%">A-15</td><td width="33%">《冰与火之歌：列王的纷争》</td><td>乔治.R.R.马丁（美）</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
   <tr><td width="10%">A-16</td><td width="33%">《冰与火之歌：冰雨的风暴》</td><td>乔治.R.R.马丁（美）</td><td>重庆出版社<br>2013-6</td><td width="15%"></td></tr>
@@ -821,18 +825,20 @@
   <tr><td width="10%">N-06</td><td width="33%">《万物简史》</td><td>布莱森（美）</td><td>接力出版社<br>2005-2</td><td width="15%"></td></tr>
   <tr><td width="10%">N-06</td><td width="33%">《图说天下·话说中国历史》</td><td>龚书铎（中）<br>刘德麟（中）</td><td>北京联合出版公司<br>2012-7</td><td width="15%"></td></tr>
   <tr><td width="10%">N-08</td><td width="33%">《信息简史》</td><td>詹姆斯·格雷克（美）</td><td>人民邮电出版社<br>2013-11</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-19</td><td width="33%">《图解人类的故事》</td><td>威廉·房龙（美）</td><td>中国华侨出版社<br>2013-8</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-09</td><td width="33%">《图解人类的故事》</td><td>威廉·房龙（美）</td><td>中国华侨出版社<br>2013-8</td><td width="15%"></td></tr>
   <tr><td width="10%">N-10</td><td width="33%">《1453：君士坦丁堡之战》</td><td>罗杰·克劳利（英）</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
   <tr><td width="10%">N-11</td><td width="33%">《海洋帝国：地中海大决战》</td><td>罗杰·克劳利（英）</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
   <tr><td width="10%">N-12</td><td width="33%">《财富之城：威尼斯海洋霸权》</td><td>罗杰·克劳利（英）</td><td>社会科学文献出版社<br>2015-6</td><td width="15%"></td></tr>
   <tr><td width="10%">N-13</td><td width="33%">《科学的旅程》</td><td>雷·斯潘根贝格（美）<br>戴安娜·莫泽（美）</td><td>北京大学出版社<br>2014-3</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-14</td><td width="33%">《人类简史》</td><td>尤瓦尔·赫拉利（以）</td><td>中信出版集团<br>2014-11</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-14</td><td width="33%">《人类简史》</td><td>尤瓦尔·赫拉利（以）</td><td>中信出版集团<br>2014-11</td><td width="15%">★★★★☆</td></tr>
   <tr><td width="10%">N-15</td><td width="33%">《未来简史》</td><td>尤瓦尔·赫拉利（以）</td><td>中信出版集团<br>2014-11</td><td width="15%"></td></tr>
   <tr><td width="10%">N-16</td><td width="33%">《极简宇宙史》</td><td>克里斯托弗·加尔法德（法）</td><td>上海三联书店<br>2016-3</td><td width="15%"></td></tr>
   <tr><td width="10%">N-17</td><td width="33%">《重说中国近代史》</td><td>张鸣（中）</td><td>中国致公出版社<br>2012-2</td><td width="15%"></td></tr>
   <tr><td width="10%">N-18</td><td width="33%">《明朝那些事儿》</td><td>当年明月（中）</td><td>京华出版社<br>2011-11</td><td width="15%"></td></tr>
   <tr><td width="10%">N-19</td><td width="33%">《极简海洋文明史》</td><td>菲利普·德·索萨（英）</td><td>中信出版集团<br>2016-10</td><td width="15%"></td></tr>
-  <tr><td width="10%">N-20</td><td width="33%">《战争就是这么回事儿》<i class="fa fa-book"></i>></td><td>袁腾飞（中）</td><td>湖南人民出版社<br>2013-06</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-20</td><td width="33%">《战争就是这么回事儿》<i class="fa fa-amazon"></i></td><td>袁腾飞（中）</td><td>湖南人民出版社<br>2013-6</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-21</td><td width="33%">《思维简史》<i class="fa fa-book"></i>></td><td>伦纳德蒙洛迪诺 （美）</td><td>中信出版集团<br>2018-4</td><td width="15%"></td></tr>
+  <tr><td width="10%">N-21</td><td width="33%">《基因传》</td><td>悉达多·穆克吉 （美）</td><td>中信出版集团<br>2018-4</td><td width="15%"></td></tr>
   <tr><td width="10%">O-01</td><td width="33%">《小王子》</td><td>安托万·德·圣埃克苏佩里（法）</td><td>天津人民出版社<br>2013-1</td><td width="15%"></td></tr>
   <tr><td width="10%">O-02</td><td width="33%">《从你的全世界路过》</td><td>张嘉佳（中）</td><td>湖南文艺出版社<br>2013-11</td><td width="15%"></td></tr>
   <tr><td width="10%">O-03</td><td width="33%">《追风筝的人》</td><td>卡勒德·胡塞尼（美）</td><td>上海人民出版社<br>2006-5</td><td width="15%"></td></tr>
@@ -843,7 +849,7 @@
   <tr><td width="10%">Q-02</td><td width="33%">《从0到1开启商业与未来的秘密》</td><td>彼得·蒂尔（美）<br>布莱克·马斯特斯（美）</td><td>中信出版社<br>2015-1</td><td width="15%"></td></tr>
   <tr><td width="10%">Q-03></td><td width="33%">《逃离不平等》</td><td>安格斯·迪顿（美）</td><td>中信出版社<br>2014-8</td><td width="15%"></td></tr>
   <tr><td width="10%">Q-04</td><td width="33%">《大数据时代》</td><td>维克托·迈尔-舍恩伯格（英）<br>肯尼斯·库克耶（英）</td><td>浙江人民出版社<br>2013-1</td><td width="15%">★★★☆☆</td></tr>
-  <tr><td width="10%">Q-05</td><td width="33%">《我的钱：互联网金融，如何理财？》</td><td>羿飞（中）</td><td>江苏凤凰文艺出版社<br>2015-1</td><td width="15%"></td></tr>
+  <tr><td width="10%">Q-05</td><td width="33%">《我的钱：互联网金融，如何理财？》</td><td>羿飞（中）</td><td>江苏凤凰文艺出版社<br>2015-1</td><td width="15%">★☆☆☆☆</td></tr>
   <tr><td width="10%">Q-06</td><td width="33%">《自由选择》</td><td>米尔顿弗里德曼（美）<br>罗丝·D.弗里德曼（美）</td><td>机械工业出版社<br>2013-6</td><td width="15%"></td></tr>
   <tr><td width="10%">Q-07</td><td width="33%">《艰难一日》</td><td>麦克·欧文（美）<br>凯文·马伦（美）</td><td>国防大学出版社<br>2012-9</td><td width="15%">★★★☆☆</td></tr>
   <tr><td width="10%">Q-08</td><td width="33%">《大数据》</td><td>涂子沛（中）</td><td>广西师范大学出版社<br>2013-4</td><td width="15%">★★★☆☆</td></tr>
@@ -866,19 +872,25 @@
   <tr><td width="10%">S-15</td><td width="33%">《精通IOS开发（第7版）》</td><td>David Mark（美）<br>Jack Nutting🇸🇪<br>Kim Topley（英）<br>Fredrik Olsson（法）<br>Jeff LaMarche（美）<br></td><td>人民邮电出版社<br>2015-9</td><td width="15%">★★★★★</td></tr>
   <tr><td width="10%">S-16</td><td width="33%">《Foundations of Financial Markets and Institutions》<i class="fa fa-book"></i></td><td>Frank J. Fabozzi（美）<br>Franco Modigliani（美）<br>Frank J. Jones（美）</td><td>机械工业出版社<br>2011-11</td><td width="15%">★★★★★</td></tr>
   <tr><td width="10%">S-17</td><td width="33%">《软件项目管理》</td><td>薛四新（中）<br>贾郭军（中）</td><td>机械工业出版社<br>2010-9</td><td width="15%">★★☆☆☆</td></tr>
-  <tr><td width="10%">S-18</td><td width="33%">《PHP和MySQL Web开发（原书第4版）》</td><td>Luke Welling🇦🇺</td><td>机械工业出版社<br>2009-4</td><td width="15%">★★★★★</td></tr>
-  <tr><td width="10%">S-19</td><td width="33%">《宇宙的答案云知道》</td><td>加文·普雷特·平尼（英）</td><td><南海出版公司 br="">2012-6</南海出版公司></td><td width="15%">★★★☆☆</td></tr>
-</table>  
-  <p id="barcon" name="barcon" align="right" style="margin-top:10px; padding:0px; margin-bottom:0px;"></p>
+  <tr><td width="10%">S-18</td><td width="33%">《PHP和MySQL Web开发（原书第4版）》</td><td>Luke Welling（澳）</td><td>机械工业出版社<br>2009-4</td><td width="15%">★★★★★</td></tr>
+  <tr><td width="10%">S-19</td><td width="33%">《宇宙的答案云知道》</td><td>加文·普雷特·平尼（英）</td><td>南海出版公司<br>2012-6</td><td width="15%">★★★☆☆</td></tr>
+</table> 
 <style type="text/css">　　
    th {text-align:center}
    td {text-align:center}
-</style>　
+</style> 
+<!--  
+<p id="barcon" name="barcon" align="right" style="margin-top:10px; padding:0px; margin-bottom:0px;"></p>
+<style type="text/css">　　
+   th {text-align:center}
+   td {text-align:center}
+</style>
 <script type="text/javascript" src="/js/src/splitpage.js"></script>
+-->
 <!--
 <script type="text/javascript" src="/js/src/particle.js"></script>
 -->
-]]></content>
+    ]]></content>
     </entry>
     
   
