@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aqsong.github.io/sweety/index.html</loc>
+    
+    <lastmod>2019-04-04T12:37:34.018Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aqsong.github.io/mybookshelf/index.html</loc>
     
     <lastmod>2018-07-18T14:24:02.988Z</lastmod>
@@ -82,6 +89,13 @@
     <loc>http://aqsong.github.io/categories/index.html</loc>
     
     <lastmod>2016-11-24T12:02:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aqsong.github.io/sweety/APlayer.min.css</loc>
+    
+    <lastmod>2015-12-08T17:30:46.000Z</lastmod>
     
   </url>
   
