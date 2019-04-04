@@ -429,6 +429,24 @@
   
     
     <entry>
+      <title><![CDATA[关于我]]></title>
+      <url>http://aqsong.github.io/about/index.html</url>
+      <content type="html"><![CDATA[<blockquote class="blockquote-center"><font size="3">清华理工男，国防事业的奉献者。<br>最大的爱好是白日做梦，并为此深受其害。<br>喜爱读书以及一切球类运动。<br>逻辑思维&gt;&gt;模糊思维，注定成不了艺术家。<br></font></blockquote>
+
+<ul>
+<li><font size="3"><b><i class="fa fa-envelope"></i> :</b>  angelo8804@163.com</font></li>
+<li><font size="3"><b><i class="fa fa-qq"></i> :</b>  657108020</font></li>
+<li><font size="3"><b><a href="/mybookshelf">我的书架 <i class="fa fa-book"></i></a></b></font>
+
+</li>
+</ul>
+<hr>
+<!--
+>最近访客
+><div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>-->]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[分类]]></title>
       <url>http://aqsong.github.io/categories/index.html</url>
       <content type="html"></content>
@@ -516,24 +534,6 @@
       <title><![CDATA[标签]]></title>
       <url>http://aqsong.github.io/tags/index.html</url>
       <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[关于我]]></title>
-      <url>http://aqsong.github.io/about/index.html</url>
-      <content type="html"><![CDATA[<blockquote class="blockquote-center"><font size="3">清华理工男，国防事业的奉献者。<br>最大的爱好是白日做梦，并为此深受其害。<br>喜爱读书以及一切球类运动。<br>逻辑思维&gt;&gt;模糊思维，注定成不了艺术家。<br></font></blockquote>
-
-<ul>
-<li><font size="3"><b><i class="fa fa-envelope"></i> :</b>  angelo8804@163.com</font></li>
-<li><font size="3"><b><i class="fa fa-qq"></i> :</b>  657108020</font></li>
-<li><font size="3"><b><a href="/mybookshelf">我的书架 <i class="fa fa-book"></i></a></b></font>
-
-</li>
-</ul>
-<hr>
-<!--
->最近访客
-><div class="ds-recent-visitors" data-num-items="28" data-avatar-size="42" id="ds-recent-visitors"></div>-->]]></content>
     </entry>
     
     <entry>
