@@ -1,5 +1,5 @@
 function getRTime(){
-        var EndTime= new Date('2019/10/19 19:30:00'); 
+        var EndTime= new Date('2019/10/17 00:00:00'); 
         var NowTime = new Date();
         var t =NowTime.getTime() - EndTime.getTime();
         /*var d=Math.floor(t/1000/60/60/24);
