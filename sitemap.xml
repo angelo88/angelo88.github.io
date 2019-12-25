@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aqsong.github.io/about/index.html</loc>
+    
+    <lastmod>2019-12-25T00:27:37.891Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aqsong.github.io/quainting/index.html</loc>
     
     <lastmod>2019-11-05T07:06:04.597Z</lastmod>
@@ -54,13 +61,6 @@
     <loc>http://aqsong.github.io/2017/02/23/hexo-next%E5%BB%BA%E7%AB%99%E5%AE%9E%E8%B7%B5/</loc>
     
     <lastmod>2017-04-04T14:32:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aqsong.github.io/about/index.html</loc>
-    
-    <lastmod>2017-03-29T13:58:36.000Z</lastmod>
     
   </url>
   
