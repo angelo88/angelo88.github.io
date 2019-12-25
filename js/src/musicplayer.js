@@ -6,9 +6,9 @@ function APlayer(e){if(!("music"in e&&"title"in e.music&&"author"in e.music&&"ur
             autoplay: false,
             showlrc: false,
             music: {
-                title: '刚好遇见你',
-                author: '李玉刚',
-                url: './media/刚好遇见你.mp3',
+                title: 'I Do',
+                author: '911',
+                url: './media/IDo.mp3',
                 pic: './media/angelo.jpg'
             }
         });
