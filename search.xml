@@ -532,7 +532,9 @@
     <entry>
       <title><![CDATA[关于我]]></title>
       <url>http://aqsong.github.io/about/index.html</url>
-      <content type="html"><![CDATA[<p align="right"><font size="3"><b><a href="/mybookshelf">我的书架 <i class="fa fa-book"></i></a>：年久失修，停止更新</b></font><br><br><br><br><br><center>还没想好怎么说</center><br><br><br><br><br></p><p align="right"><font size="3"><b><a href="/download/我的书架.pdf">我的书架 <i class="fa fa-search"></i></a>：阅读管理，持续更新</b></font></p>
+      <content type="html"><![CDATA[<p><br><br><br><br><img src="/download/aboutme.jpg" width="30%"></p>
+<table style="border:0; margin:0px; padding:0px;"><br><tr><br>    <td style="text-align:left;background-color:#FFFFFF;border-right:0;border-top:0;border-bottom:0;vertical-align:top"><font size="3"><b><a href="/mybookshelf">我的书架 <i class="fa fa-book"></i></a>：年久失修，停止更新</b></font></td><br>    <td style="text-align:right;background-color:#FFFFFF;border-right:0;border-top:0;border-bottom:0;vertical-align:top"><font size="3"><b><a href="/download/我的书架.pdf">我的书架 <i class="fa fa-search"></i></a>：阅读管理，每月更新</b></font></td><br></tr><br></table> 
+
 
 <hr>
 
