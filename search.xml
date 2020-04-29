@@ -841,7 +841,8 @@
 <p><div id="countdown_prompt"> <font size="3">距离2040年欧冠决赛期老友相聚  </font> <font size="2">还有：</font></div></p>
 <p><div id="countdown"><span id="t_d">00天</span><span id="t_h">00时</span> <span id="t_m">00分</span><span id="t_s">00秒</span></div></p>
 <p><div id="countdown"><span id="loveYear"><font size="2">今天是第 </font><span id="t_month">00</span><font size="2"> 个月，</font><font size="2">今天是第 </font><span id="t_year">00</span><font size="2"> 年。</font></span><br></div></p>
-<script type="text/javascript" src="/js/src/timerdeal.js"></script></blockquote>
+<p><script type="text/javascript" src="/js/src/timerdeal.js"></script></p>
+<font size="5">我们不见不散！</font><br><font size="2">本活动最终解释权归 GGstar &amp; saphira &amp; else所有！</font></blockquote>
 <!--计时器 结束-->
 <!--左键点击出心形 开始-->
 <script type="text/JavaScript" src="/js/src/love.js"></script>
