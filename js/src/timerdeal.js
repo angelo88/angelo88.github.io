@@ -1,5 +1,5 @@
 function getRTime(){
-        var EndTime= new Date('2030/5/22 00:00:00'); 
+        var EndTime= new Date('2040/5/22 00:00:00'); 
         var NowTime = new Date();
         var t =EndTime.getTime() - NowTime.getTime();
         /*var d=Math.floor(t/1000/60/60/24);
