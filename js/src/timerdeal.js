@@ -1,5 +1,5 @@
 function getRTime(){
-        var EndTime= new Date('2040/5/22 00:00:00'); 
+        var EndTime= new Date('2030/5/22 00:00:00'); 
         var NowTime = new Date();
         var t =EndTime.getTime() - NowTime.getTime();
         /*var d=Math.floor(t/1000/60/60/24);
@@ -14,8 +14,8 @@ function getRTime(){
         var h=Math.floor(t/1000/60/60%24);
         var m=Math.floor(t/1000/60%60);
         var s=Math.floor(t/1000%60);
-		var month=Math.ceil(d/30);
-		var year=Math.ceil(d/365);
+		var month=Math.ceil(d/30) - 1;
+		var year=Math.ceil(d/365) - 1;
 
         document.getElementById("t_d").innerHTML = "<font size=5>"+ d + "<font size=2> 天 </font>";
         document.getElementById("t_h").innerHTML = "<font size=5>"+ h + "<font size=2> 时 </font>";
